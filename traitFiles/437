@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IKZF1,DDC,GRB10	Acute_lymphoblastic_leukemia_(childhood)	2E-29	1.67	[1.53-1.83]_	rs6964969	C	0.28	23512250	
+ARID5B	Acute_lymphoblastic_leukemia_(childhood)	6E-46	1.86	[1.71-2.03]_	rs10821936	C	0.33	23512250	
+CEBPE	Acute_lymphoblastic_leukemia_(childhood)	9E-12	1.36	[1.24-1.48]_	rs4982731	C	0.28	23512250	
+PYGL	Acute_lymphoblastic_leukemia_(childhood)	7E-9	3.61	[2.34-5.57]_	rs7142143	C	0.01	23007406	
+IKZF1	Acute_lymphoblastic_leukemia_(childhood)	1E-19	1.69	[1.58-1.81]_	rs4132601	C	0.28	19684604	
+ARID5B	Acute_lymphoblastic_leukemia_(childhood)	7E-19	1.65	[1.54-1.76]_	rs7089424	C	0.34	19684604	
+ARID5B	Acute_lymphoblastic_leukemia_(childhood)	1E-15	1.91	[1.60-2.20]_	rs10821936	C	0.34	19684603	
+IKZF1,_DDC	Acute_lymphoblastic_leukemia_(childhood)	8E-11	1.69	[1.40-1.90]_	rs11978267	G	0.27	19684603	

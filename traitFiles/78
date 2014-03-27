@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LRP1	Abdominal_aortic_aneurysm	5E-10	1.15	[1.10-1.21]_	rs1466535	C	0.58	22055160	
+DAB2IP	Abdominal_aortic_aneurysm	5E-10	1.21	[1.14-1.28]_	rs7025486	A	0.23	20622881	
+CDKN2A,CKDN2B	Abdominal_aortic_aneurysm	2E-8	1.27	[NR]_	rs2383207	G	0.49	20622881	

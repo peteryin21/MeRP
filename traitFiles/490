@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IL17F	Response_to_gemcitabine_in_pancreatic_cancer_	3E-8	3.30	[2.10-5.10]_	rs763780	G	NR	22142827	

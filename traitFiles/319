@@ -1,0 +1,11 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GCKR	Glycemic_traits_(pregnancy)	6E-13	.00	[NR]_unit_decrease	rs1260326	T	0.409	23903356	
+GCKR	Glycemic_traits_(pregnancy)	6E-11	.01	[NR]_unit_decrease	rs1260326	T	0.409	23903356	
+HKDC1,_SUPV3L1,_SRGN,_VPS26A,_HK1	Glycemic_traits_(pregnancy)	1E-22	.28	[NR]_unit_increase	rs4746822	T	0.675	23903356	
+BACE2,_PLAC4,_C21orf130,_FAM3B	Glycemic_traits_(pregnancy)	6E-16	.04	[NR]_unit_increase	rs6517656	G	0.839	23903356	
+G6PC2	Glycemic_traits_(pregnancy)	2E-16	.01	[NR]_unit_decrease	rs560887	T	0.291	23903356	
+PCSK1	Glycemic_traits_(pregnancy)	5E-15	.01	[NR]_unit_decrease	rs6235	G	0.272	23903356	
+PPP1R3B	Glycemic_traits_(pregnancy)	5E-15	.03	[NR]_unit_decrease	rs4841132	G	0.91	23903356	
+PPP1R3B	Glycemic_traits_(pregnancy)	3E-13	.01	[NR]_unit_decrease	rs4841132	G	0.91	23903356	
+MTNR1B	Glycemic_traits_(pregnancy)	3E-16	.22	[NR]_unit_increase	rs7936247	T	0.361	23903356	
+MTNR1B	Glycemic_traits_(pregnancy)	2E-12	.00	[NR]_unit_increase	rs7936247	T	0.361	23903356	

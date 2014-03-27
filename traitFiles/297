@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MYO10	Major_depressive_disorder	2E-8	3.18	[2.77-3.59]_	rs17651119	C	0.99	23377640	
+Intergenic	Major_depressive_disorder	5E-8	1.47	[1.33-1.61]_	rs10065906	C	0.308	23377640	
+Intergenic	Major_depressive_disorder	3E-8	.24	[0.16-0.33]_unit_increase	rs12054895	T	0.275456	23377640	
+SLC6A15	Major_depressive_disorder	1E-9	1.40	[1.254-1.557]_	rs1545843	A	NR	21521612	

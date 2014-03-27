@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TMEM161B,_MEF2C	Retinal_arteriolar_caliber	2E-12	1.60	[1.15-2.05]_unit_decrease	rs2194025	G	0.91	23776548	
+SFRS2,MFSD11,JMJD6,MXRA7	Retinal_arteriolar_caliber	2E-10	.86	[0.61-1.11]_unit_decrease	rs3744061	G	0.44	23776548	

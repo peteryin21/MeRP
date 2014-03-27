@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ARMS2,HTRA1	Age-related_macular_degeneration_(CNV_vs._GA)	7E-14	1.38	[NR]_	rs10490924	T	0.438	22705344	

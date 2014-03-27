@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LPA	Response_to_statin_therapy	1E-9	.28	[0.20-0.36]_mmol/L_decrease	rs10455872	A	NR	22368281	
+CLMN,_FLJ45244,_DICER1	Response_to_statin_therapy	2E-8	NR	NR	rs8014194	A	0.24	20339536	
+LOC646909,_DUSP4,_KIF13B	Response_to_statin_therapy	3E-8	NR	NR	rs10091038	A	0.43	20339536	
+SLCO1B1	Response_to_statin_therapy	2E-9	4.50	[2.60-7.70]_	rs4149056	C	0.13	18650507	

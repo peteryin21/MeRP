@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+RBP4	Retinol_levels	7E-15	.03	[0.02-0.04]_ug/L_decrease	rs10882272	C	0.35	21878437	
+TTR	Retinol_levels	6E-14	.03	[0.02-0.04]_ug/L_increase	rs1667255	C	0.31	21878437	

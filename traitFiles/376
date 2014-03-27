@@ -1,0 +1,7 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IRF4	Black_vs._red_hair_color	9E-28	.31	[0.25-0.36]_decrease_in_hair_color_score	rs12203592	T	NR	18483556	
+MATP	Black_vs._red_hair_color	9E-14	.46	[0.34-0.58]_decrease_in_hair_color_score	rs28777	C	NR	18483556	
+HERC2	Black_vs._red_hair_color	1E-77	.44	[0.40-0.48]_decrease_in_hair_color_score	rs12913832	A	NR	18483556	
+Intergenic	Black_vs._red_hair_color	2E-12	.15	[0.11-0.19]_increase_in_hair_color_score	rs8033165	T	NR	18483556	
+OCA2	Black_vs._red_hair_color	6E-20	.29	[0.23-0.35]_decrease_in_hair_color_score	rs11855019	G	NR	18483556	
+MC1R	Black_vs._red_hair_color	2E-23	.36	[0.28-0.44]_increase_in_hair_color_score	rs258322	T	NR	18483556	

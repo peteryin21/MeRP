@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FOXE1,_TMOD1,_C9orf97,_NCBP1,_XPA,_KRT18P13,_C9orf156,_HEMGN	Thyroid_cancer_(Papillary,_radiation-related)	5E-12	1.65	[1.43-1.91]_	rs965513	A	NR	20350937	

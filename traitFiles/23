@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLC35F1,_C6orf204,_PLN	Cardiac_structure_and_function	1E-9	.03	[0.02-0.04]_cm_decrease	rs89107	G	0.50	19584346	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLCO1B1	Methotrexate_phramacokinetics_(acute_lymphoblastic_leukemia)	8E-11	1.80	[7.6-14.0]_mL/min/m2_increase	rs11045879	T	0.16	19901119	

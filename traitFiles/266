@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IRS1	Adiposity	4E-11	.03	[NR]_%_decrease	rs2943650	T	0.64	21706003	
+FTO	Adiposity	3E-26	.06	[NR]_%_decrease	rs8050136	C	0.60	21706003	
+TFAP2B	Adiposity	2E-11	.04	[0.03-0.05]_z-score_unit_increase	rs987237	G	0.164	19557161	
+MSRA	Adiposity	9E-9	.04	[0.03-0.05]_z-score_unit_increase	rs7826222	G	0.183	19557161	
+LYPLAL1	Adiposity	3E-8	.04	[0.03-0.05]_z-score_unit_increase	rs2605100	G	0.692	19557161	

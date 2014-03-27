@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CFH	Circulating_myeloperoxidase_levels_(serum)_	5E-41	.15	[0.13-0.17]_unit_decrease	rs800292	A	0.23	23620142	
+NOTCH4,C2,HLA	Circulating_myeloperoxidase_levels_(serum)_	1E-8	.05	[0.030-0.070]_unit_decrease	rs3134931	T	0.73	23620142	
+SIRPB2	Circulating_myeloperoxidase_levels_(serum)_	4E-8	.09	[0.051-0.129]_unit_decrease	rs6042507	A	0.11	23620142	

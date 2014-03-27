@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+C11orf30,_LRRC32	Allergic_rhinitis	4E-8	1.17	[1.11-1.24]_	rs2155219	T	0.47	22036096	

@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SHBG	Testosterone_levels	1E-41	31.80	[27.29-36.31]_ng/dl_increase	rs12150660	T	0.23	21998597	
+SHBG	Testosterone_levels	2E-22	82.30	[65.64-98.96]_ng/dl_decrease	rs6258	T	0.02	21998597	

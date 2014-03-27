@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FCER1A	IgE_levels_	5E-26	.09	[NR]_unit_increase	rs2251746	C	NR	22075330	
+STAT6,_NAB2	IgE_levels_	2E-12	.12	[NR]_unit_decrease	rs1059513	C	NR	22075330	
+IL13	IgE_levels_	3E-18	.08	[NR]_unit_increase	rs20541	A	NR	22075330	
+HLA-G	IgE_levels_	4E-8	.06	[NR]_unit_increase	rs2523809	T	NR	22075330	
+HLA-A	IgE_levels_	1E-15	.06	[NR]_unit_increase	rs2571391	C	NR	22075330	
+DARC	IgE_levels_	2E-11	.09	[NR]_unit_decrease	rs13962	A	NR	22075330	
+HLA-DQA2	IgE_levels_	1E-8	.04	[NR]_unit_decrease	rs2858331	G	NR	22075330	
+OR10J3	IgE_levels_	2E-16	.08	[NR]_unit_increase	rs4656784	G	NR	22075330	
+FCER1A	IgE_levels_	2E-20	19.20	[NR]_%_decrease	rs2251746	C	0.26	18846228	

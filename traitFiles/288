@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SC4MOL	Insulin-related_traits	2E-8	.18	[0.12-0.24]_unit_increase	rs17046216	A	0.48	22791750	
+TCERG1L	Insulin-related_traits	3E-8	.30	[0.20-0.40]_unit_increase	rs10829848	T	0.13	22791750	
+SC4MOL	Insulin-related_traits	3E-8	.19	[0.13-0.25]_unit_increase	rs17046216	A	0.48	22791750	

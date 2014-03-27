@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GATA6,CTAGE1,RBBP8,CABLES1	Tuberculosis	7E-9	1.19	[1.10-1.30]_	rs4331426	G	0.48	20694014	

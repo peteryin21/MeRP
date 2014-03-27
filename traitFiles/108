@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PDGFRA	Corneal_curvature	5E-14	.13	[0.093-0.159]_(unit_decrease)	rs17084051	A	NR	23401653	
+FRAP1	Corneal_curvature	4E-13	.18	[0.11-0.25]_unit_increase	rs17036350	T	0.20	21665993	
+PDGFRA	Corneal_curvature	1E-9	.13	[0.07-0.19]_unit_decrease	rs2114039	C	0.30	21665993	

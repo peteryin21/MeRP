@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CDKN2A,CDKN2B	Myocardial_infarction	1E-20	1.28	[1.22-1.35]_	rs10757278	G	0.45	17478679	

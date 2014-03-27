@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CCNL1	Birth_weight	4E-38	.07	[0.060-0.084]_gram_decrease	rs900400	C	0.39	23202124	
+ADCY5	Birth_weight	6E-20	.06	[0.047-0.071]_gram_decrease	rs9883204	C	0.76	23202124	
+HMGA2	Birth_weight	1E-19	.05	[0.037-0.057]_gram_decrease	rs1042725	T	0.50	23202124	
+CDKAL1	Birth_weight	2E-18	.05	[0.038-0.062]_gram_decrease	rs6931514	G	0.29	23202124	
+Intergenic	Birth_weight	5E-8	.03	[0.022-0.046]_gram_decrease	rs4432842	C	0.30	23202124	
+LCORL	Birth_weight	5E-11	.04	[0.030-0.054]_gram_decrease	rs724577	C	0.73	23202124	
+ADRB1	Birth_weight	4E-9	.04	[0.027-0.055]_gram_decrease	rs1801253	G	0.26	23202124	
+CCNL1,_LEKR1	Birth_weight	2E-35	.09	[0.073-0.10]_s.d._decrease	rs900400	C	NR	20372150	
+ADCY5	Birth_weight	7E-15	.06	[0.047-0.079]_s.d._decrease	rs9883204	C	NR	20372150	

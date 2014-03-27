@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BAZ2B	Sudden_cardiac_arrest	2E-10	1.92	[1.57-2.34]_	rs4665058	A	0.014	21738491	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CBLN2	Pulmonary_arterial_hypertension_(without_BMPR2_mutations)	7E-10	1.97	[1.59-2.45]_	rs2217560	G	0.069	23502781	

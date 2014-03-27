@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+KCNN2	Coronary_arterial_lesions_in_patients_with_Kawasaki_disease	2E-8	12.60	[4.13-38.5]_	rs17136627	A	0.008	23677057	

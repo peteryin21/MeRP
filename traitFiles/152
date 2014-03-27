@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LOC100131805	Immune_reponse_to_smallpox_(secreted_IL-12p40)	2E-12	NR	NR	rs7771911	A	NR	22610502	
+KCND2	Immune_reponse_to_smallpox_(secreted_IL-12p40)	3E-9	NR	NR	rs17142462	A	NR	22610502	
+BCO2	Immune_reponse_to_smallpox_(secreted_IL-12p40)	1E-8	NR	NR	rs7105056	A	NR	22610502	
+ARHGAP10	Immune_reponse_to_smallpox_(secreted_IL-12p40)	1E-8	NR	NR	rs7658486	A	NR	22610502	

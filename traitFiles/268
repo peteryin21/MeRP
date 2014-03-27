@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FUT2	Vitamin_B12_levels	5E-17	.09	[0.07-0.11]_pg/ml_decrease	rs492602	G	0.49	18776911	

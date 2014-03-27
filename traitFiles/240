@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+UGT1A1	Circulating_cell-free_DNA	2E-23	.34	[0.27-0.40]_ug/ml_increase	rs6742078	T	0.60	22511988	

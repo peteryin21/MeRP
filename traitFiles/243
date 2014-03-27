@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BLK	Kawasaki_disease	9E-10	1.54	[1.338-1.767]_	rs2736340	T	0.722	22446961	
+CD40	Kawasaki_disease	6E-9	1.42	[1.256-1.594]_	rs1569723	A	0.5480	22446961	
+FAM167A,_BLK	Kawasaki_disease	8E-21	1.85	[1.54-2.23]_	rs2254546	G	0.72	22446962	
+HLA-DQB2,_HLA-DOB	Kawasaki_disease	5E-11	1.47	[1.23-1.77]_	rs2857151	G	0.76	22446962	
+CD40	Kawasaki_disease	5E-8	1.41	[1.20-1.66]_	rs4813003	C	0.67	22446962	
+MLF1IP	Kawasaki_disease	3E-8	1.42	[1.23-1.64]_	rs2130392	A	0.358	22446962	
+NUMBL,MIA	Kawasaki_disease	4E-10	1.52	[1.28-1.81]_	rs2233152	A	0.158	22446962	
+FCGR2A	Kawasaki_disease	7E-11	1.32	[1.22-1.44]_	rs1801274	A	0.47	22081228	

@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	C-reactive_protein_and_white_blood_cell_count	6E-13	.28	[NR]_mg/dl_increase	rs2526932	G	0.012	22788528	
+Intergenic	C-reactive_protein_and_white_blood_cell_count	1E-11	.22	[NR]_mg/dl_increase	rs6846071	G	0.016	22788528	
+DOCK4	C-reactive_protein_and_white_blood_cell_count	7E-11	.24	[NR]_mg/dl_increase	rs10255299	G	0.013	22788528	
+Intergenic	C-reactive_protein_and_white_blood_cell_count	9E-10	.18	[NR]_mg/dl_increase	rs6904416	C	0.019	22788528	
+Intergenic	C-reactive_protein_and_white_blood_cell_count	1E-9	.22	[NR]_mg/dl_increase	rs960246	T	0.013	22788528	
+HNF1A	C-reactive_protein_and_white_blood_cell_count	3E-9	.05	[NR]_mg/dl_decrease	rs2393791	C	0.478	22788528	
+Intergenic	C-reactive_protein_and_white_blood_cell_count	3E-9	.39	[NR]_10^3/ul_decrease	rs7600502	G	0.053	22788528	
+Intergenic	C-reactive_protein_and_white_blood_cell_count	3E-9	.16	[NR]_10^3/ul_increase	rs8078723	C	0.468	22788528	
+LOC100506403	C-reactive_protein_and_white_blood_cell_count	2E-8	.46	[NR]_10^3/ul_decrease	rs16993221	A	0.034	22788528	

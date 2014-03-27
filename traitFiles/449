@@ -1,0 +1,14 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MTX1,_GBA	Renal_function-related_traits_(BUN)	2E-12	.01	[0.0052-0.0092]_mg/dl_increase	rs2049805	T	0.17	22797727	
+PAX8	Renal_function-related_traits_(BUN)	3E-10	.01	[0.0035-0.0067]_mg/dl_increase	rs11123170	G	0.35	22797727	
+MECOM	Renal_function-related_traits_(BUN)	3E-14	.01	[0.0048-0.0080]_mg/dl_increase	rs16853722	C	0.29	22797727	
+UNCX	Renal_function-related_traits_(BUN)	4E-9	.01	[0.0046-0.0093]_mg/dl_increase	rs10275044	T	0.34	22797727	
+MPPED2l,_DCDC5	Renal_function-related_traits_(BUN)	5E-16	.01	[0.0052-0.0084]_mg/dl_increase	rs10767873	C	0.69	22797727	
+C12orf51	Renal_function-related_traits_(BUN)	2E-9	.01	[0.0042-0.0086]_mg/dl_increase	rs2074356	A	0.23	22797727	
+WDR72	Renal_function-related_traits_(BUN)	3E-11	.01	[0.0035-0.0067]_mg/dl_increase	rs17730281	G	0.58	22797727	
+BCAS3	Renal_function-related_traits_(BUN)	2E-9	.01	[0.0039-0.0079]_mg/dl_increase	rs11868441	G	0.75	22797727	
+GNAS	Renal_function-related_traits_(BUN)	9E-9	.01	[0.0034-0.0070]_mg/dl_increase	rs6026584	T	0.32	22797727	
+LRIG1,_KBTBD8	Renal_function-related_traits_(BUN)	1E-19	.01	[0.0073-0.0113]_mg/dl_increase	rs13069000	G	0.17	22797727	
+BCL6,_LPP	Renal_function-related_traits_(BUN)	9E-30	.01	[0.0082-0.0118]_mg/dl_increase	rs10937329	T	0.69	22797727	
+RSPO3	Renal_function-related_traits_(BUN)	1E-11	.01	[0.0036-0.0068]_mg/dl_increase	rs1936800	T	0.50	22797727	
+SLC14A2	Renal_function-related_traits_(BUN)	7E-18	.01	[0.0063-0.0103]_mg/dl_increase	rs7227483	G	0.80	22797727	

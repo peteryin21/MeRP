@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-B,_HLA-C	HIV-1_susceptibility	4E-11	1.52	_	rs4418214	C	NR	23935489	

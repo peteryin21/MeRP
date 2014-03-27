@@ -1,0 +1,13 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HERC2	Eye_color	1E-177	2.82	[2.62-3.02]_unit_increase	rs12913832	A	NR	23548203	
+SLC24A4	Eye_color	4E-11	.33	[0.23-0.43]_unit_increase	rs12896399	G	NR	23548203	
+HERC2	Eye_color	1E-158	2.84	[2.62-3.06]_unit_decrease	rs12913832	G	NR	23548203	
+HERC2,_OCA2	Eye_color	2E-20	.35	[0.28-0.42]_unit_increase	rs1667394	C	0.28	23118974	
+OCA2	Eye_color	1E-300	2.49	[NR]_unit_increase	rs12913832	A	0.23	20585627	
+SLC24A4	Eye_color	1E-16	.34	[NR]_unit_decrease	rs12896399	T	0.44	20585627	
+IRF4	Eye_color	2E-15	.42	[NR]_unit_decrease	rs12203592	T	0.18	20585627	
+SLC45A2	Eye_color	1E-12	.84	[NR]_unit_increase	rs16891982	C	0.03	20585627	
+TYR	Eye_color	3E-9	.28	[NR]_unit_decrease	rs1393350	A	0.27	20585627	
+OCA2	Eye_color	3E-52	8.43	[NR]_	rs12913832	A	0.23	20585627	
+SLC24A4	Eye_color	2E-23	1.73	[NR]_	rs12896399	G	0.44	20585627	
+TYR	Eye_color	1E-15	1.58	[NR]_	rs1847134	A	0.68	20585627	

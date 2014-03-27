@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ABCG8	Gallstones	1E-14	2.20	[1.80-2.60]_	rs11887534	C	0.10	17632509	

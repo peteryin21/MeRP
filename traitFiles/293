@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HFE	Hematocrit	2E-9	.31	[0.21-0.41]_%_increase	rs1800562	A	NR	19862010	
+HBS1L,_MYB	Hematocrit	3E-15	.22	[0.16-0.28]_%_increase	rs9483788	C	NR	19862010	
+TFR2	Hematocrit	4E-10	.15	[0.10-0.20]_%_decrease	rs7385804	C	NR	19862010	
+PRKAG2	Hematocrit	6E-15	.20	[0.15-0.25]_%_increase	rs10224002	G	NR	19862010	
+HK1	Hematocrit	1E-13	.33	[0.24-0.42]_%_increase	rs16926246	T	NR	19862010	
+SH2B3,_ATXN2	Hematocrit	1E-12	.17	[0.12-0.22]_%_decrease	rs11065987	G	NR	19862010	
+TMPRSS6	Hematocrit	2E-13	.17	[0.13-0.22]_%_decrease	rs2413450	T	NR	19862010	
+PRKCE	Hematocrit	4E-15	.19	[0.14-0.23]_%_increase	rs10168349	C	NR	19862010	

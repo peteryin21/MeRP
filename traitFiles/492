@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TNFSF11,_RANKL	Cortical_thickness	4E-9	.09	[0.051-0.129]_mm_decrease	rs9525638	T	NR	22792071	
+WNT16	Cortical_thickness	2E-10	.11	[0.071-0.149]_mm_decrease	rs2707466	C	NR	22792071	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+DMGDH,_BHMT2,_BHMT	Blood_trace_element_(Se_levels)	9E-28	.25	[0.20-0.29]_unit_increase	rs921943	T	NR	23720494	

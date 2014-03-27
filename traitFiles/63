@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PDE8B	Thyroid_stimulating_hormone	2E-20	.25	[0.17-0.33]_uIU/ml_increase	rs4704397	A	0.44	18514160	

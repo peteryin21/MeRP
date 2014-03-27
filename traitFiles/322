@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CLCN6	Natriuretic_peptide_levels	4E-16	.20	[0.16-0.24]_unit_increase	rs1023252	T	0.26	21273288	

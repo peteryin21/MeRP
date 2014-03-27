@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ATP10D	Sphingolipid_levels	8E-19	.06	[0.04-0.07]_unit_increase	rs10938494	A	0.23	19798445	
+FADS3	Sphingolipid_levels	7E-13	.62	[0.45-0.78]_unit_decrease	rs1000778	A	0.32	19798445	
+LASS4	Sphingolipid_levels	2E-27	.00	[0.0007-0.001]_mol_%_increase	rs7258249	G	0.48	19798445	
+SPTLC3	Sphingolipid_levels	8E-15	.10	[0.08-0.13]_mol_%_increase	rs680379	A	0.34	19798445	
+SGPP1	Sphingolipid_levels	9E-66	.00	[0.001-0.002]_mol_%_increase	rs7157785	A	0.19	19798445	

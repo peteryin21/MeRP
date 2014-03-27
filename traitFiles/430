@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MECOM	Osteoporosis	4E-8	1.39	[1.24-1.56]_	rs784288	A	0.23	23349225	
+RAP1A	Osteoporosis	4E-8	NR	NR	rs494453	C	0.24	20548944	
+TNFRSF11B	Osteoporosis	3E-11	.14	[NR]_g/cm2_increase	rs2062375	G	0.45	20548944	
+ALDH7A1	Osteoporosis	2E-9	2.25	[1.72-2.94]_	rs13182402	G	0.05	20072603	

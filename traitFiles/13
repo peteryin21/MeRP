@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PUS10	Crohn's_disease_and_celiac_disease	1E-11	NR	NR	rs10188217	C	NR	21298027	
+TAGAP	Crohn's_disease_and_celiac_disease	2E-10	NR	NR	rs212388	C	NR	21298027	

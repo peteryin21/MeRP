@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ZNF827	Gamma_glutamyl_transpeptidase	1E-14	.00	[0.0031-0.0055]_IU/L_decrease	rs4835265	T	0.42	21909109	
+TBL2	Gamma_glutamyl_transpeptidase	6E-10	.01	[0.0035-0.0067]_IU/L_increase	rs12539316	C	0.10	21909109	
+MYL2	Gamma_glutamyl_transpeptidase	9E-58	.01	[0.011-0.013]_IU/L_increase	rs12229654	G	0.14	21909109	
+C12orf51	Gamma_glutamyl_transpeptidase	3E-126	.02	[0.015-0.017]_IU/L_increase	rs2074356	T	0.15	21909109	
+Intergenic	Gamma_glutamyl_transpeptidase	6E-44	.01	[0.0083-0.0111]_IU/L_increase	rs11066453	G	0.13	21909109	
+HNF1A	Gamma_glutamyl_transpeptidase	7E-30	.01	[0.0062-0.0090]_IU/L_increase	rs2393791	G	0.48	21909109	
+GGT1,_C22orf36	Gamma_glutamyl_transpeptidase	7E-53	.01	[0.0076-0.0100]_IU/L_decrease	rs4820599	G	0.24	21909109	

@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CA1,_CA2,_CA3,_CA13	Blood_trace_element_(Zn_levels)	6E-12	.18	[0.13-0.23]_unit_increase	rs1532423	A	NR	23720494	
+SCAMP5,_PPCDC	Blood_trace_element_(Zn_levels)	2E-18	.29	[0.22-0.35]_unit_decrease	rs2120019	C	NR	23720494	
+KLF8,_ZXDA,_ZXDB	Blood_trace_element_(Zn_levels)	1E-12	.21	[0.15-0.27]_unit_increase	rs4826508	T	NR	23720494	

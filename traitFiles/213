@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GNL3,_GLT8D1	Osteoarthritis	5E-9	1.09	[1.06-1.12]_	rs11177	A	0.38	22763110	
+DOT1L	Osteoarthritis	1E-11	.09	[NR]_mm_increase	rs12982744	G	0.39	22566624	
+MCF2L	Osteoarthritis	2E-8	1.17	[1.11-1.23]_	rs11842874	A	0.07	21871595	

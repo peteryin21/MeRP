@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ICA1,_GLCCI1	Intraocular_pressure	1E-8	.45	[0.29-0.61]_unit_increase	rs59072263	G	0.88	23836780	
+GAS7	Intraocular_pressure	1E-8	.19	[0.12-0.26]_mmHg_decrease	rs11656696	A	0.43	22570627	
+TMCO1	Intraocular_pressure	2E-8	.28	[0.18-0.37]_mmHg_increase	rs7555523	C	0.12	22570627	

@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Response_to_antipsychotic_treatment	4E-8	NR	NR	rs8050896	T	0.161	23241943	
+PDE4D	Response_to_antipsychotic_treatment	4E-8	NR	NR	rs17382202	T	0.153	23241943	

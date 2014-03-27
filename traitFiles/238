@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GCKR,_C2orf16,_ZNF512,_XAB1_	Palmitoleic_acid_(16:1n-7)_plasma_levels	1E-9	.02	[0.014-0.027]__unit_increase_	rs780093_	T	0.41	23362303	
+HIF1AN,_SEC31B,_NDUFB8,_WNT8B,_SCD_	Palmitoleic_acid_(16:1n-7)_plasma_levels	6E-9	.02	_unit_decrease_	rs11190604_	A	0.782	23362303	
+NAP5_	Palmitoleic_acid_(16:1n-7)_plasma_levels	4E-8	.05	[0.031-0.065]__unit_decrease_	rs6722456_	A	0.023	23362303	
+PKD2L1	Palmitoleic_acid_(16:1n-7)_plasma_levels	6E-15	.03	[0.024-0.041]_unit_decrease	rs603424	A	0.193	23362303	
+C11orf0,_C11orf9,_FADS1,_FADS2,_FEN1_	Palmitoleic_acid_(16:1n-7)_plasma_levels	7E-13	.02	[0.017-0.03]__unit_increase_	rs102275_	T	0.329	23362303	

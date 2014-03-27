@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CLDN14	Kidney_stones	4E-12	1.25	[1.17-1.33]_	rs219780	C	0.79	19561606	

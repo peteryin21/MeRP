@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BUD13,_ZNF259,_APOA5	Vitamin_E_levels	8E-12	.04	[0.02-0.06]_unit_increase	rs964184	G	0.15	21729881	
+CYP4F2	Vitamin_E_levels	1E-10	.03	[0.01-0.05]_unit_increase	rs2108622	T	0.21	21729881	
+SCARB1	Vitamin_E_levels	8E-9	.03	[0.01-0.05]_unit_increase	rs11057830	A	0.15	21729881	

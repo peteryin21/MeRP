@@ -1,0 +1,12 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+B3GNT3	Tumor_biomarkers	1E-13	.07	[0.029-0.115]_U/ml_decrease	rs265548	C	0.26	23300138	
+ABO	Tumor_biomarkers	7E-105	.21	[0.18-0.23]_ng/ml_increase	rs8176749	T	0.18	23300138	
+FUT6	Tumor_biomarkers	1E-35	.07	[0.048-0.098]_ng/ml_increase	rs3760775	T	0.33	23300138	
+FUT2	Tumor_biomarkers	6E-209	.24	[0.21-0.26]_ng/ml_increase	rs1047781	T	0.46	23300138	
+FAM3B	Tumor_biomarkers	3E-22	.07	[0.040-0.098]_ng/ml_increase	rs441810	G	0.24	23300138	
+AFP	Tumor_biomarkers	3E-18	.07	[0.032-0.098]_ng/ml_decrease	rs12506899	G	0.32	23300138	
+HISPPD2A	Tumor_biomarkers	1E-14	.09	[0.056-0.118]_ng/ml_increase	rs2251844	C	0.42	23300138	
+FUT6	Tumor_biomarkers	3E-290	.48	[0.44-0.52]_U/ml_decrease	rs3760775	T	0.33	23300138	
+FUT2,_CA11	Tumor_biomarkers	8E-176	.44	[0.41-0.48]_U/ml_increase	rs1047781	T	0.46	23300138	
+FUT6	Tumor_biomarkers	5E-132	.28	[0.20-0.37]_U/ml_increase	rs17271883	G	0.38	23300138	
+FUT6	Tumor_biomarkers	2E-56	.17	[0.11-0.22]_U/ml_decrease	rs3760776	T	0.20	23300138	

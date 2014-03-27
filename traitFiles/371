@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SCN5A	Brugada_syndrome	1E-14	1.73	[1.51-1.99]_	rs11708996	C	0.15	23872634	
+SCN10A	Brugada_syndrome	1E-68	2.55	[2.30-2.84]_	rs10428132	T	0.41	23872634	
+HEY2,_NCOA7	Brugada_syndrome	5E-17	1.58	[1.42-1.75]_	rs9388451	C	0.50	23872634	

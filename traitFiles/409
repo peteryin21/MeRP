@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PROCR	Anticoagulant_levels	4E-9	.85	[NR]__SD_units	rs867186	G	0.077	22216198	

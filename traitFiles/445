@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TP53	Basal_cell_carcinoma_	2E-20	2.16	[1.83-2.54]_	rs78378222	C	NR	21946351	
+UBAC2	Basal_cell_carcinoma_	3E-8	1.26	[1.18-1.34]_	rs7335046	G	0.12	21700618	
+MC1R	Basal_cell_carcinoma_	4E-17	1.55	[1.45-1.66]_	rs1805007	T	0.07	21700618	
+EXOC2	Basal_cell_carcinoma_	1E-9	1.24	[1.17-1.31]_	rs12210050	T	0.17	21700618	
+CLPTM1L,_TERT	Basal_cell_carcinoma_	4E-12	1.25	[1.18-1.34]_	rs401681	C	0.56	19151717	
+PADI4,_PADI6,RCC2,_ARHGEF10L	Basal_cell_carcinoma_	4E-12	1.28	[1.19-1.37]_	rs7538876	A	0.35	18849993	
+RHOU	Basal_cell_carcinoma_	6E-12	1.28	[1.19-1.37]_	rs801114	G	0.33	18849993	

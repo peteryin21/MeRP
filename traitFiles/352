@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ABCG8	Phytosterol_levels	2E-50	12.00	[NR]_%_increase	rs4245791	C	0.322	20529992	
+ABO	Phytosterol_levels	9E-13	8.00	[NR]_%_increase	rs657152	T	0.383	20529992	
+ABCG8	Phytosterol_levels	6E-25	14.00	[NR]_%_decrease	rs41360247	C	0.064	20529992	

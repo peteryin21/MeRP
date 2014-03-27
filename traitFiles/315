@@ -1,0 +1,17 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IL1RL2,_IL1RL1	Self-reported_allergy	2E-16	.14	[0.11-0.18]_unit_decrease	rs10189629	A	0.1450	23817569	
+PLCL1	Self-reported_allergy	6E-10	.07	[0.050-0.097]_unit_increase	rs10497813	G	0.4825	23817569	
+LPP,_BCL6	Self-reported_allergy	1E-9	.07	[0.050-0.098]_unit_increase	rs9860547	A	0.4629	23817569	
+TLR1,TLR6,TLR10	Self-reported_allergy	5E-21	.14	[0.11-0.17]_unit_decrease	rs2101521	A	0.2384	23817569	
+ADAD1	Self-reported_allergy	4E-8	.07	[0.047-0.099]_unit_increase	rs17388568	A	0.2748	23817569	
+DAB2,_PTGER4	Self-reported_allergy	8E-11	.08	[0.055-0.102]_unit_decrease	rs7720838	G	0.4254	23817569	
+WDR36,_CAMK4,_TSLP	Self-reported_allergy	2E-20	.11	[0.087-0.134]_unit_increase	rs1438673	C	0.4951	23817569	
+HLA-C,_MICA	Self-reported_allergy	3E-12	.10	[0.075-0.133]_unit_increase	rs9266772	C	0.1882	23817569	
+HLA-DQA1,_HLA-DQB1	Self-reported_allergy	7E-15	.09	[0.071-0.118]_unit_increase	rs6906021	C	0.4749	23817569	
+RANBP6,_IL33	Self-reported_allergy	2E-9	.11	[0.077-0.15]_unit_increase	rs7032572	G	0.1665	23817569	
+C11orf30,_LRRC32	Self-reported_allergy	2E-19	.11	[0.085-0.132]_unit_increase	rs2155219	T	0.5146	23817569	
+SMAD3	Self-reported_allergy	1E-8	.08	[0.052-0.106]_unit_increase	rs17228058	G	0.2353	23817569	
+GSDMB,_IKZF3	Self-reported_allergy	9E-9	.07	[0.045-0.092]_unit_decrease	rs9303280	T	0.4805	23817569	
+NFATC2	Self-reported_allergy	7E-9	.15	[0.10-0.20]_unit_decrease	rs6021270	C	0.0576	23817569	
+GATA3	Self-reported_allergy	2E-8	.07	[0.046-0.095]_unit_decrease	rs962993	T	0.4292	23817569	
+FOXA1,_TTC6	Self-reported_allergy	5E-8	.08	[0.052-0.110]_unit_increase	rs1998359	G	0.2491	23817569	

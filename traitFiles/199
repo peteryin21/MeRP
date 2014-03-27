@@ -1,0 +1,15 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+F5	Venous_thromboembolism	4E-51	2.07	[1.89-2.28]_	rs6427196	C	0.93	23650146	
+ABO	Venous_thromboembolism	2E-52	1.55	[1.47-1.64]_	rs687621	G	0.65	23650146	
+F11	Venous_thromboembolism	3E-14	1.24	[1.17-1.31]_	rs4253399	G	0.61	23650146	
+FGG	Venous_thromboembolism	2E-13	1.25	[1.18-1.32]_	rs6536024	C	0.42	23650146	
+F5	Venous_thromboembolism	2E-22	3.57	[2.76-4.60]_	rs6025	T	0.063	22672568	
+ABO	Venous_thromboembolism	3E-16	1.65	[1.46-1.86]_	rs495828	T	0.272	22672568	
+NME7	Venous_thromboembolism	2E-12	2.02	[1.66-2.45]_	rs16861990	C	0.099	22672568	
+ABO	Venous_thromboembolism	6E-12	1.47	[1.32-1.64]_	rs8176719	G	0.419	22672568	
+ABO	Venous_thromboembolism	8E-16	1.69	[1.48-1.91]_	rs2519093	A	0.243	22672568	
+F5,_SLC19A2,_NME7	Venous_thromboembolism	2E-26	2.52	[NR]_	rs1018827	A	0.12	21980494	
+FGG,_FGA	Venous_thromboembolism	2E-13	1.53	[NR]_	rs7659024	A	0.25	21980494	
+ABO	Venous_thromboembolism	1E-34	1.92	[NR]_	rs505922	C	0.43	21980494	
+F11	Venous_thromboembolism	6E-11	1.40	[NR]_	rs3756008	T	0.44	21980494	
+ABO	Venous_thromboembolism	4E-15	1.81	[1.56-2.11]_	rs505922	C	0.35	19278955	

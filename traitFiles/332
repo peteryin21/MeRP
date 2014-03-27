@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ABO	Protein_biomarker	4E-47	.07	[0.059-0.078]_unit_decrease	rs644234	G	0.35	23056639	
+LGALS3,_DLGAP5	Protein_biomarker	2E-188	.19	[0.17-0.20]_unit_decrease	rs2274273	A	0.41	23056639	

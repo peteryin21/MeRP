@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IL1RL1	Eosinophil_counts	5E-14	6.40	[4.7-8.1]_%_standard_unit_increase	rs1420101	A	0.41	19198610	
+IKZF2	Eosinophil_counts	5E-10	6.30	[4.3-8.3]_%_standard_unit_increase	rs12619285	G	0.74	19198610	
+GATA2	Eosinophil_counts	9E-17	9.40	[7.2-11.6]_%_standard_unit_increase	rs4857855	T	0.82	19198610	
+SH2B3	Eosinophil_counts	7E-19	7.60	[5.9-9.3]_%_standard_unit_increase	rs3184504	T	0.38	19198610	
+IL5	Eosinophil_counts	1E-10	7.10	[4.9-9.2]_%_standard_unit_increase	rs4143832	C	0.16	19198610	

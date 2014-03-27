@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ALPL,NBPF3	Phosphorus_levels	1E-27	.05	[NR]_mg/dl_increase	rs1697421	A	0.49	20558539	
+CASR,CCDC58	Phosphorus_levels	4E-9	.04	[NR]_mg/dl_decrease	rs17265703	G	0.15	20558539	
+ITPR3,LEMD2,MLN	Phosphorus_levels	1E-11	.06	[NR]_mg/dl_decrease	rs9469578	T	0.08	20558539	
+PDE7B	Phosphorus_levels	3E-12	.04	[NR]_mg/dl_increase	rs947583	C	0.29	20558539	
+FGF6,RAD51AP1,FGF23	Phosphorus_levels	4E-9	.05	[NR]_unit_increase	rs2970818	A	0.09	20558539	

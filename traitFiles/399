@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SORT1,CELSR2,PSRC1	Progranulin_levels	2E-30	.18	[0.16-0.20]_ng/ml_decrease	rs646776	G	0.21	21087763	

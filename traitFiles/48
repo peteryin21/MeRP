@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IRAK4,_PUS7L	Immune_reponse_to_smallpox_(secreted_TNF-alpha)	2E-8	NR	NR	rs4251424	A	NR	22610502	

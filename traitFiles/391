@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+DNER	Pulmonary_function_(interaction)	3E-9	.02	[-0.01048-0.04048]_unit_decrease	rs7594321	T	0.35	23284291	
+DNER	Pulmonary_function_(interaction)	5E-11	.00	[0.00005-0.00035]_unit_decrease	rs7594321	T	0.35	23284291	
+HLA-DQB1,_HLA-DQA2	Pulmonary_function_(interaction)	4E-9	.00	[-0.04016-0.04216]_unit_decrease	rs7764819	T	0.89	23284291	
+HLA-DQB1,_HLA-DQA2	Pulmonary_function_(interaction)	4E-9	.00	[-0.00014-0.00025]_unit_decrease	rs7764819	T	0.89	23284291	
+KCNJ2,_SOX9	Pulmonary_function_(interaction)	1E-8	.02	[-0.00848-0.04248]_unit_decrease	rs11654749	T	0.39	23284291	

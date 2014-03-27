@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Diabetic_retinopathy_	3E-15	NR	NR	rs17376456	A	NR	21310492	
+Intergenic	Diabetic_retinopathy_	9E-9	NR	NR	rs12219125	T	NR	21310492	
+ARHGAP22	Diabetic_retinopathy_	2E-9	NR	NR	rs4838605	C	NR	21310492	
+HS6ST3	Diabetic_retinopathy_	5E-11	NR	NR	rs2038823	C	NR	21310492	

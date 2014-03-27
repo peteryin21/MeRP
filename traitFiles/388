@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+DMRT1	Testicular_cancer	1E-11	1.70	[1.46-1.99]_	rs7040024	A	NR	21551455	
+DMRT1	Testicular_cancer	9E-10	1.50	[1.32-1.71]_	rs755383	T	NR	21551455	
+KITLG	Testicular_cancer	6E-15	3.07	[2.29-4.13]_	rs4474514	A	NR	19483682	

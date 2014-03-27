@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Serum_ceruloplasmin_levels	2E-11	1.50	_mg/dl_increase	rs13072552	T	0.079	22075249	

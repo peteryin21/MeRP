@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ABCA7,_HMHA1,_GRIN3B	Alzheimer's_disease_(late_onset)	2E-9	1.79	[1.47-2.12]_	rs115550680	G	0.07	23571587	
+APOE,_CEACAM16,_BCL3,_PVRL2,_TOMM40,_PPP1R37	Alzheimer's_disease_(late_onset)	5E-39	2.09	[1.87-2.34]_	rs519113	G	0.29	23565137	
+CD2AP	Alzheimer's_disease_(late_onset)	9E-9	1.11	[1.07-1.15]_	rs9349407	C	0.27	21460841	
+CR1	Alzheimer's_disease_(late_onset)	5E-10	1.16	[1.11-1.22]_	rs6701713	A	0.20	21460841	
+BIN1	Alzheimer's_disease_(late_onset)	4E-14	1.17	[1.13-1.22]_	rs7561528	A	0.35	21460841	
+APOE,TOMM40	Alzheimer's_disease_(late_onset)	5E-36	2.94	[2.48-3.47]_	rs2075650	G	0.20	20885792	
+MTHFD1L	Alzheimer's_disease_(late_onset)	2E-10	2.10	[1.67-2.64]_	rs11754661	A	0.07	20885792	
+Intergenic	Alzheimer's_disease_(late_onset)	4E-8	1.76	[1.44-2.15]_	rs4676049	A	0.08	20885792	
+GAB2	Alzheimer's_disease_(late_onset)	1E-10	4.06	[2.81-14.69]_	rs2373115	G	0.70	17553421	

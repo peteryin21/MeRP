@@ -1,0 +1,15 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ALPL,_NBPF3	Liver_enzyme_levels_(alkaline_phosphatase)	2E-50	3.60	[3.0-4.2]_%_increase	rs1976403	C	0.40	22001757	
+ABCB11	Liver_enzyme_levels_(alkaline_phosphatase)	2E-9	3.90	[1.20-6.70]_%_increase	rs16856332	T	0.96	22001757	
+ALDH5A1,_GPLD1	Liver_enzyme_levels_(alkaline_phosphatase)	6E-26	3.10	[2.50-3.70]_%_increase	rs1883415	C	0.33	22001757	
+PPP1R3B	Liver_enzyme_levels_(alkaline_phosphatase)	2E-10	2.70	[1.10-4.40]_%_increase	rs6984305	A	0.11	22001757	
+TRIB1	Liver_enzyme_levels_(alkaline_phosphatase)	2E-13	1.40	[0.50-2.30]_%_increase	rs2954021	A	0.50	22001757	
+ALDOB,_C9orf125	Liver_enzyme_levels_(alkaline_phosphatase)	1E-9	2.50	[1.40-3.60]_%_increase	rs10819937	C	0.17	22001757	
+ABO	Liver_enzyme_levels_(alkaline_phosphatase)	3E-123	8.80	[7.40-10.2]_%_increase	rs579459	T	0.80	22001757	
+JMJD1C,_NRBF2	Liver_enzyme_levels_(alkaline_phosphatase)	6E-23	2.20	[1.70-2.70]_%_increase	rs7923609	G	0.50	22001757	
+C11orf10,_FADS1,_FADS2	Liver_enzyme_levels_(alkaline_phosphatase)	3E-9	1.70	[0.80-2.60]_%_increase	rs174601	T	0.35	22001757	
+ST3GAL4	Liver_enzyme_levels_(alkaline_phosphatase)	2E-9	1.50	[0.60-2.50]_%_increase	rs2236653	T	0.42	22001757	
+HPR,_PMFBP1	Liver_enzyme_levels_(alkaline_phosphatase)	5E-9	2.00	[1.10-2.90]_%_increase	rs7186908	C	0.24	22001757	
+ASGR1,_DLG4	Liver_enzyme_levels_(alkaline_phosphatase)	8E-12	2.10	[1.50-2.80]_%_increase	rs314253	C	0.33	22001757	
+FUT2	Liver_enzyme_levels_(alkaline_phosphatase)	1E-15	1.80	[0.80-2.80]_%_increase	rs281377	T	0.43	22001757	
+ABHD12,GINS1,_PYGB	Liver_enzyme_levels_(alkaline_phosphatase)	7E-10	1.50	[0.90-2.0]_%_increase	rs7267979	G	0.57	22001757	

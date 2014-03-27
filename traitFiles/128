@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+C12orf51	Biomedical_quantitative_traits	8E-12	.01	[0.004-0.008]_decrease	rs2074356	T	0.15	19396169	
+CD46,_LOC148696	Biomedical_quantitative_traits	3E-9	1.09	[0.72-1.44]_beats_per_minute_increase	rs12731740	T	0.10	19396169	
+LOC644502	Biomedical_quantitative_traits	2E-9	.66	[0.45-0.87]_beats_per_minute_increase	rs12110693	A	0.49	19396169	
+FAM3C	Biomedical_quantitative_traits	1E-11	NR	NR	rs7776725	C	0.13	19396169	

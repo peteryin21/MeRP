@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ZMIZ1	Crohn's_disease_and_psoriasis	7E-14	1.16	[NR]_	rs1250544	G	NR	22482804	
+SOCS1	Crohn's_disease_and_psoriasis	1E-13	1.16	[NR]_	rs4780355	T	NR	22482804	

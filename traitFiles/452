@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BCO2	Interleukin-18_levels	4E-9	NR	NR	rs2115763	T	0.33	20150558	
+BCO2	Interleukin-18_levels	1E-8	NR	NR	rs1834481	G	0.24	20150558	

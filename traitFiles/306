@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SAA1	Amyloid_A_Levels	3E-53	.31	[0.27-0.35]_unit_increase	rs4638289	A	0.32	21124955	
+HPS5,_GTF2H1	Amyloid_A_Levels	2E-51	.27	[0.23-0.31]_unit_increase	rs4353250	T	0.35	21124955	
+LDHA,_LDHC	Amyloid_A_Levels	4E-22	.22	[0.17-0.27]_unit_increase	rs2896526	G	0.17	21124955	

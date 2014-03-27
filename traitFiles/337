@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Quantitative_traits	1E-9	.23	[NR]_mg/dL_increase	rs7396835	T	0.32	19197348	

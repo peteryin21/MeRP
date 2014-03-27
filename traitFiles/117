@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLC2A9	Biochemical_measures	1E-9	.29	[0.21-0.37]_umol/l_decrease	rs13129697	C	0.25	19260141	

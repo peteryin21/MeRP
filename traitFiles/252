@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TACC3,TMEM129,SLBP,FGFR3	Urinary_bladder_cancer	1E-11	1.24	[1.17-1.32]_	rs798766	T	0.19	20348956	
+MYC	Urinary_bladder_cancer	7E-12	1.21	[1.15-1.28]_	rs9642880	T	0.44	20348956	
+MYC,_BC042052	Urinary_bladder_cancer	9E-12	1.22	[1.15-1.29]_	rs9642880	T	0.45	18794855	

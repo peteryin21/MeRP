@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SP3,_CDCA7	End-stage_renal_disease_in_Type_1_diabetics	4E-8	1.81	[1.47-2.24]_	rs4972593	A	0.14	24029427	

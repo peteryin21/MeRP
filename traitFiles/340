@@ -1,0 +1,13 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ATF7IP	Prostate-specific_antigen_levels	2E-9	.05	_%_increase	rs3213764	G	0.467	23359319	
+KLK2,_KLKP1	Prostate-specific_antigen_levels	6E-20	.06	_%_increase	rs1354774	G	0.343	23359319	
+SLC45A3,_NUCKS1,_RAB7L1,_SLC41A1,_FLJ32569	Prostate-specific_antigen_levels	2E-19	.20	[NR]_%_higher_levels	rs12409639	A	0.11	23269536	
+MSMB	Prostate-specific_antigen_levels	5E-17	.12	[NR]_%_higher_levels	rs10993994	T	0.50	23269536	
+KLK3	Prostate-specific_antigen_levels	6E-37	.19	[NR]_%_higher_levels	rs2735839	G	0.58	23269536	
+TERT	Prostate-specific_antigen_levels	1E-10	7.00	[NR]_%_increase	rs401681	C	0.55	21160077	
+FGFR2	Prostate-specific_antigen_levels	5E-15	10.20	[NR]_%_increase	rs10788160	A	0.31	21160077	
+MSMB	Prostate-specific_antigen_levels	7E-13	9.20	[NR]_%_increase	rs10993994	T	0.39	21160077	
+TBX3	Prostate-specific_antigen_levels	2E-11	8.30	[NR]_%_increase	rs11067228	A	0.56	21160077	
+HNF1B	Prostate-specific_antigen_levels	6E-11	9.40	[NR]_%_increase	rs4430796	A	0.52	21160077	
+KLK3	Prostate-specific_antigen_levels	3E-46	39.10	[NR]_%_increase	rs17632542	T	0.91	21160077	
+NR	Prostate-specific_antigen_levels	6E-10	NR	NR	rs266849	A	0.83	21160077	

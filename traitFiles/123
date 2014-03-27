@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BUD13,_ZNF259,_APOA5,_LOC100128347,_SIK3	Response_to_Vitamin_E_supplementation	3E-12	.07	[0.050-0.090]_mg/L_increase	rs964184	G	0.15	22437554	

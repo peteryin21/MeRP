@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+APIP,_EHF	Cystic_fibrosis_severity	1E-9	NR	NR	rs12793173	C	0.24	21602797	

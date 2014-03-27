@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CHRNA3,CHRNA4,CHRNA5,_LOC123688	Chronic_obstructive_pulmonary_disease	1E-10	1.40	[1.18-1.67]_	rs8034191	C	0.33	19300482	

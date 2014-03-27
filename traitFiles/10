@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MC1R	Red_vs_non-red_hair_color	2E-142	12.47	[9.37-16.60]_	rs1805007	T	NR	17952075	

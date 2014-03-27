@@ -1,0 +1,16 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LOC90246,C3orf27,RPN1	White_blood_cell_count	4E-13	.01	[0.0073-0.0127]_unit_increase	rs4328821	A	NR	21738480	
+PSORS1C3,HCG27,HLA-C,_HLA-B	White_blood_cell_count	1E-11	.01	[0.010-0.019]_unit_increase	rs2524079	A	NR	21738480	
+C19orf44,EPS15L1,CALR3	White_blood_cell_count	3E-12	.02	[0.011-0.020]_unit_increase	rs10411936	A	NR	21738480	
+ITGA4,CERKL	White_blood_cell_count	3E-23	.04	[0.029-0.044]_unit_increase	rs1449263	T	NR	21738480	
+GATA2,LOC90246,C3orf27,RPN1	White_blood_cell_count	6E-13	.03	[0.020-0.036]_unit_decrease	rs9880192	C	NR	21738480	
+MLZE,FAM49B	White_blood_cell_count	3E-20	.03	[0.027-0.041]_unit_decrease	rs10098310	A	NR	21738480	
+EDG2,OR2K2	White_blood_cell_count	2E-22	.04	[0.034-0.050]_unit_decrease	rs10980800	T	NR	21738480	
+GSDMB,ORMDL3,GSDMA,PSMD3,CSF3,MED24,SNORD124,THRA,NR1D1	White_blood_cell_count	2E-31	.04	[0.034-0.048]_unit_decrease	rs8078723	T	NR	21738480	
+MUC21,HCG22,C6orf15,CDSN,PSORS1C1,PSORS1C2,CCHCR1	White_blood_cell_count	4E-13	.01	[0.0094-0.0164]_unit_decrease	rs2517510	T	NR	21738480	
+CSF3,_PSMD3,_GSDM1,_MED24,_GSDMB,_ORMDL3,_GSDMA,_SNORD124,_THRA,_NR1D1	White_blood_cell_count	9E-35	.02	[0.018-0.025]_unit_increase	rs4794822	T	NR	21738480	
+CDSN,PSORS1C1	White_blood_cell_count	7E-9	.07	[0.046-0.094]_unit_increase	rs3094212	C	0.35	20139978	
+GSDMA,PSMD3,CSF3,MED24	White_blood_cell_count	3E-14	.09	[0.070-0.118]_unit_decrease	rs4065321	T	0.32	20139978	
+HBS1L,MYB	White_blood_cell_count	2E-9	.07	[0.049-0.097]_unit_decrease	rs4895441	G	0.37	20139978	
+RAP1B,NUP107,SLC35E3	White_blood_cell_count	3E-8	.07	[0.041-0.089]_unit_increase	rs12313946	C	0.47	20139978	
+CDK6	White_blood_cell_count	2E-8	.07	[0.045-0.095]_unit_decrease	rs445	T	0.32	20139978	

@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SCN1A	Mesial_temporal_lobe_epilepsy_with_hippocampal_sclerosis	4E-8	1.24	[1.15-1.34]_	rs7587026	A	0.263	24014518	
+SCN1A	Mesial_temporal_lobe_epilepsy_with_hippocampal_sclerosis	3E-9	1.42	[1.26-1.59]_	rs7587026	A	0.263	24014518	

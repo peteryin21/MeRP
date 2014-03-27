@@ -1,0 +1,12 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GCK	Glycemic_traits	5E-18	.06	[0.049-0.077]_mmol-1_increase	rs1799884	A	NR	23575436	
+MTNR1B	Glycemic_traits	5E-13	.04	[0.029-0.053]_mmol-1_increase	rs10830962	C	NR	23575436	
+C12orf51	Glycemic_traits	6E-14	.06	[0.045-0.077]_mmol-1_decrease	rs2074356	T	NR	23575436	
+CDKAL1	Glycemic_traits	3E-19	.25	[0.19-0.30]_mmol-1_increase	rs9348440	A	NR	23575436	
+GCK	Glycemic_traits	3E-9	.21	[0.14-0.28]_mmol-1_increase	rs1799884	A	NR	23575436	
+MTNR1B	Glycemic_traits	3E-12	.19	[0.14-0.24]_mmol-1_increase	rs10830962	C	NR	23575436	
+MYL2	Glycemic_traits	9E-13	.28	[0.20-0.35]_mmol-1_decrease	rs12229654	G	NR	23575436	
+C12orf51	Glycemic_traits	1E-16	.32	[0.24-0.40]_mmol-1_decrease	rs2074356	T	NR	23575436	
+OAS1	Glycemic_traits	5E-9	.24	[0.16-0.32]_mmol-1_decrease	rs11066453	G	NR	23575436	
+GCK	Glycemic_traits	3E-10	.16	[0.11-0.21]_mmol-1_increase	rs1799884	A	NR	23575436	
+C12orf51	Glycemic_traits	6E-9	.17	[0.11-0.22]_mmol-1_decrease	rs2074356	T	NR	23575436	

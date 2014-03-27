@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-DPB1,_HLA-DPB2,_HSD17B8,_RING1,_COL11A2,_RXRB,_HLA-DOA,_HLA-DPB1*04	Wegener's_granulomatosis	2E-50	4.17	[3.33-5.00]_	rs9277554	C	0.708	23740775	
+SEMA6A	Wegener's_granulomatosis	2E-8	1.35	[1.22-1.49]_	rs26595	T	0.56	23740775	

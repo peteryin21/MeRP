@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+UST	Response_to_antidepressants	4E-8	27.00	[NR]_%_worse_outcome	rs2500535	A	0.06	20360315	

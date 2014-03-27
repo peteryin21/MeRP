@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TRIM65	White_matter_hyperintensity_burden	4E-15	NR	NR	rs3744028	C	0.18	21681796	
+TRIM47	White_matter_hyperintensity_burden	3E-11	NR	NR	rs1055129	G	0.30	21681796	

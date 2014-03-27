@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+C12orf51,_CCDC63,_MYL2,_ALDH2	Drinking_behavior	3E-215	3.33	[3.23-3.45]_	rs11066280	T	0.84	23364009	

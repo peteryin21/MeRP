@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TARDBP	Ewing_sarcoma	1E-20	2.20	[1.77-2.72]_	rs9430161	G	0.79	22327514	
+EGR2,_ADO,_ZNF365	Ewing_sarcoma	4E-17	1.66	[1.42-1.93]_	rs224278	C	0.58	22327514	
+EIF2AK4,_SRP14,_BMF	Ewing_sarcoma	7E-9	1.46	[1.23-1.74]_	rs4924410	A	0.27	22327514	

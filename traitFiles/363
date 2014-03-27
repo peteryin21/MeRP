@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GATM	Homoarginine_levels	1E-45	.27	[NR]_unit_decrease	rs1153858	C	0.72	24047826	

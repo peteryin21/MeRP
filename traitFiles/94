@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PCSK6	Handedness_in_dyslexia	2E-8	.35	[0.23-0.47]_SD_increase	rs11855415	A	0.25	21051773	

@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CSF1,_EPS8LS	Paget's_disease	7E-35	1.72	[1.57-1.87]_	rs10494112	G	0.20	21623375	
+NUP205	Paget's_disease	8E-10	1.45	[1.29-1.63]_	rs4294134	G	0.84	21623375	
+TM7SF4	Paget's_disease	7E-17	1.40	[1.29-1.51]_	rs2458413	A	0.58	21623375	
+OPTN	Paget's_disease	4E-38	1.67	[1.54-1.80]_	rs1561570	T	0.53	21623375	
+RIN3	Paget's_disease	3E-11	1.44	[1.29-1.60]_	rs10498635	C	0.82	21623375	
+PML	Paget's_disease	2E-14	1.34	[1.25-1.45]_	rs5742915	C	0.45	21623375	
+TNFRSF11A	Paget's_disease	8E-21	1.45	[1.34-1.56]_	rs3018362	A	0.36	21623375	
+TNFRSF11A	Paget's_disease	2E-11	1.46	[1.30-1.63]_	rs2957128	A	0.38	20436471	
+TNFRSF11A	Paget's_disease	5E-13	1.52	[1.36-1.70]_	rs3018362	A	0.34	20436471	

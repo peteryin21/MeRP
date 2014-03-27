@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MMP	Matrix_metalloproteinase_levels	6E-34	.44	[NR]_unit_decrease_in_ln(MMP-1)	rs495366	A	0.36	20031604	
+MMP-1	Matrix_metalloproteinase_levels	9E-29	.39	[NR]_unit_increase_in_ln(MMP-1)	rs11225434	C	0.38	20031604	
+MMP-1,_MMP-3	Matrix_metalloproteinase_levels	2E-18	.44	[NR]_unit_increase_in_ln(MMP-1)	rs11226373	G	0.15	20031604	

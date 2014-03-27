@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CYP4F2	Warfarin_maintenance_dose	3E-8	NR	NR	rs2108622	T	NR	20833655	
+VKORC1	Warfarin_maintenance_dose	3E-181	.97	[0.91-1.02]_mg/week_decrease	rs9923231	T	0.40	19300499	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+WSB1,_FAM27L	Chronic_myeloid_leukemia	1E-12	1.85	[1.56-2.17]_	rs4795519	C	0.48	21540461	

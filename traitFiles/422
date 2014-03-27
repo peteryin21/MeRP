@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ELF5	&beta;2-Glycoprotein_I_(&beta;2-GPI)_plasma_levels	5E-8	.65	_(unit_increase)	rs836132	C	0.15	23279374	

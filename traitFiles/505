@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+KCNJ2	Cardiac_repolarization	6E-14	1.70	_ms_decrease	rs7219669	T	0.38	22342860	

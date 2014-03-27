@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLC17A8,_NR1H4,_SCYL2,_GAS2L3	Squamous_cell_carcinoma	1E-10	1.28	[1.19-1.39]_	rs12296850	A	0.744	23341777	

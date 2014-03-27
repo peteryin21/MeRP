@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+UGT1A	Bilirubin_levels	9E-20	NR	NR	rs887829	T	0.312	23642732	
+UGT1A1	Bilirubin_levels	2E-22	.23	[0.183-0.270]_unit_increase	rs887829	T	0.45	22085899	
+SLCO1B3	Bilirubin_levels	3E-14	.13	[0.08-0.18]_s.d._increase	rs2117032	C	0.47	19419973	
+UGT1A1	Bilirubin_levels	1E-69	.57	[0.50-0.63]_s.d._decrease	rs887829	T	0.30	19419973	
+G6PD	Bilirubin_levels	9E-9	.18	[0.12-0.24]_s.d._decrease	rs766420	G	0.18	19419973	
+UGT1A1	Bilirubin_levels	5E-324	.23	[0.21-0.25]_umol/l_increase_in_log(tbil)	rs6742078	T	0.32	19414484	
+SLCO1B1,LST-3TM12,SLCO1A2	Bilirubin_levels	7E-13	.05	[0.03-0.07]_umol/l_increase_in_log(tbil)	rs4149056	C	0.15	19414484	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Non-alcoholic_fatty_liver_disease_histology_(other)	3E-8	1.31	[NR]_unit_increase	rs343064	A	0.40	20708005	

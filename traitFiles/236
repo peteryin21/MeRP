@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+H19	DNA_methylation_(variation)	1E-14	NR	NR	rs4930103	G	0.397	23725790	
+FAM190A	DNA_methylation_(variation)	3E-8	NR	NR	rs11933531	A	0.04	23725790	
+GNAS,_GNAS-AS1	DNA_methylation_(variation)	5E-9	NR	NR	rs965808	G	0.22	23725790	

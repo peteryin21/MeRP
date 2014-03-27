@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+RASIP1,IZUMO1,FUT1,FUT2,CA11,FGF21,FLJ36070	Retinal_vascular_caliber	2E-25	2.10	[1.71-2.49]_um_decrease	rs2287921	T	0.47	21060863	
+VTA1,NMBR	Retinal_vascular_caliber	1E-16	1.90	[1.45-2.35]_um_decrease	rs225717	C	0.23	21060863	
+ATXN2,PTPN11,SH2B3	Retinal_vascular_caliber	2E-13	1.50	[1.11-1.89]_um_increase	rs10774625	A	0.48	21060863	
+MEF2C	Retinal_vascular_caliber	7E-16	3.00	[2.27-3.73]_um_increase	rs17421627	G	0.08	21060863	

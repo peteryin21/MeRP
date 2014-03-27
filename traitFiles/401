@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Breast_Cancer_in_BRCA1_mutation_carriers	4E-13	1.19	[1.14-1.25]_	rs8170	G	0.48	23544013	
+Intergenic	Breast_Cancer_in_BRCA1_mutation_carriers	5E-9	1.28	[1.18-1.39]_	rs2046210	C	0.08	23544013	

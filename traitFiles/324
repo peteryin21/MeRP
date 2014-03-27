@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-DRB1,_HLA-DQB1	Nodular_sclerosis_Hodgkin_lymphoma	8E-18	2.50	[NR]_	rs204999,_rs9268528,_rs9268542,_rs6903608,_rs2858870	S	NR_(GAATC)	22086417	

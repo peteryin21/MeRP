@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PROC	Protein_C_levels	4E-36	.12	[0.10-0.14]_ug/ml_decrease	rs1158867	C	0.42	20802025	
+PROCR	Protein_C_levels	2E-200	.47	[0.44-0.50]_ug/ml_increase	rs867186	C	0.10	20802025	
+EDEM2	Protein_C_levels	7E-37	.14	[0.12-0.16]_ug/ml_decrease	rs6120849	T	0.23	20802025	
+BAZ1B	Protein_C_levels	3E-8	.06	[0.04-0.08]_ug/ml_decrease	rs17145713	T	0.20	20802025	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IL27,_CCDC101,_CLN3,_EIF3C,_NUPR1,_SULT1A1,_SULT1A2	Inflammatory_bowel_disease_(early_onset)	2E-9	1.14	[1.00-1.30]_	rs8049439	G	0.37	19915574	

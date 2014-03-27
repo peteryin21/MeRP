@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PNPLA3	Nonalcoholic_fatty_liver_disease	1E-10	1.66	[1.43-1.94]_	rs738409	G	0.484	22719876	
+PNPLA3	Nonalcoholic_fatty_liver_disease	4E-34	.26	[0.22-0.30]_unit_increase_(GOLD)	rs738409	G	0.23	21423719	

@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-B	CD4:CD8_lymphocyte_ratio	2E-28	.37	[0.31-0.43]_SD_increase	rs2524054	A	0.32	20045101	
+HLA-B	CD4:CD8_lymphocyte_ratio	6E-21	.31	[0.25-0.37]_SD_decrease	rs2524054	A	0.32	20045101	

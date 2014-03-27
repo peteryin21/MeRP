@@ -1,0 +1,11 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CFH,_CFHR1,_CFHR3	Complement_C3_and_C4_levels	7E-11	.05	[0.030-0.070]_g/L_decrease	rs3753394	C	0.43	23028341	
+C3	Complement_C3_and_C4_levels	2E-9	.09	[0.070-0.110]_g/L_increase	rs3745567	T	0.06	23028341	
+HLA-A	Complement_C3_and_C4_levels	3E-48	.10	[0.080-0.120]_g/L_increase	rs1052693	G	0.36	23028341	
+HLA-C	Complement_C3_and_C4_levels	1E-54	.23	[0.21-0.25]_g/L_decrease	rs11575839	A	0.05	23028341	
+C4	Complement_C3_and_C4_levels	6E-97	.17	[0.15-0.19]_g/L_decrease	rs2075799	T	0.20	23028341	
+C4	Complement_C3_and_C4_levels	1E-22	.08	[0.060-0.100]_g/L_increase	rs2857009	G	0.20	23028341	
+HLA-DRA	Complement_C3_and_C4_levels	4E-72	.13	[0.11-0.15]_g/L_decrease	rs2071278	G	0.27	23028341	
+HLA-DRB	Complement_C3_and_C4_levels	9E-66	.12	[0.10-0.14]_g/L_increase	rs3763317	C	0.37	23028341	
+HLA-DQB	Complement_C3_and_C4_levels	3E-22	.09	[0.070-0.110]_g/L_decrease	rs9276606	T	0.15	23028341	
+HLA-DQB	Complement_C3_and_C4_levels	9E-83	.23	[0.21-0.25]_g/L_increase	rs241428	G	0.08	23028341	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PKHD1	Weight_loss_(gastric_bypass_surgery)	5E-8	10.90	_unit_decrease	rs728996,_rs2894788,_rs6458777,_rs4715233,_rs9296661,_rs1326589	S	0.39	23633212	

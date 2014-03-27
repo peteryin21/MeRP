@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+COL27A1,_KIF12,_ORM1	Tourette_syndrome	3E-8	1.29	[NR]_	rs7868992	G	0.28	22889924	

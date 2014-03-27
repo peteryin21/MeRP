@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LOC344371,_MYADML,_FAM98A,_RASGRP3	Hypertension_(young_onset)	3E-10	NR	NR	rs9308945,rs6711736,rs6729869,rs10495809	S	NR	19421330	

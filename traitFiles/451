@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+RNF212,SPON2	Recombination_rate_(males)	3E-24	70.70	[57.1-84.3]_cM__decrease	rs3796619	T	0.33_(men_and_women_combined)	18239089	

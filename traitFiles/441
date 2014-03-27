@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TYRP1	Blue_vs._green_eyes	6E-17	1.40	[1.25-1.57]_	rs1408799	C	0.75	18488028	
+SLC24A4	Blue_vs._green_eyes	4E-38	2.06	[1.76-2.42]_	rs12896399	T	0.40	17952075	
+TYR	Blue_vs._green_eyes	3E-12	1.52	[1.28-1.81]_	rs1393350	A	0.23	17952075	
+OCA2	Blue_vs._green_eyes	2E-53	6.74	[4.61-9.83]_	rs1667394	A	0.98	17952075	

@@ -1,0 +1,15 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HAPLN1,_EDIL3	Ankylosing_spondylitis	9E-10	1.21	[1.14-1.29]_	rs4552569	C	0.28	22138694	
+ANO6	Ankylosing_spondylitis	2E-8	1.29	[1.18-1.41]_	rs17095830	G	0.10	22138694	
+IL23R	Ankylosing_spondylitis	2E-17	NR	NR	rs11209026	G	0.93	21743469	
+KIF21B	Ankylosing_spondylitis	5E-12	NR	NR	rs2297909	G	0.68	21743469	
+Intergenic	Ankylosing_spondylitis	7E-34	NR	NR	rs10865331	A	0.37	21743469	
+ERAP1	Ankylosing_spondylitis	2E-27	NR	NR	rs30187	T	0.33	21743469	
+HLA-B	Ankylosing_spondylitis	1E-200	NR	NR	rs4349859	A	0.04	21743469	
+Intergenic	Ankylosing_spondylitis	2E-11	NR	NR	rs378108	G	0.48	21743469	
+RUNX3	Ankylosing_spondylitis	9E-11	NR	NR	rs11249215	A	0.47	21743469	
+IL12B	Ankylosing_spondylitis	2E-8	NR	NR	rs6556416	C	0.67	21743469	
+LTBR-TNFRSF1A	Ankylosing_spondylitis	4E-12	NR	NR	rs11616188	A	0.43	21743469	
+TBKBP1	Ankylosing_spondylitis	5E-8	NR	NR	rs8070463	C	0.51	21743469	
+B3GNT2	Ankylosing_spondylitis	2E-19	1.27	[1.18-1.37]_	rs10865331	A	0.40	20062062	
+ERAP1	Ankylosing_spondylitis	5E-12	1.19	[1.10-1.30]_	rs27434	A	0.23	20062062	

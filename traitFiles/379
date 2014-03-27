@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PAX3	Facial_morphology	4E-16	.39	[0.30-0.48]_mm_increase	rs7559271	G	NR	22341974	

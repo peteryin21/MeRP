@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GAPDHL19	Immune_reponse_to_smallpox_(secreted_IL-2)	7E-13	NR	NR	rs9389316	A	NR	22610502	
+RFT1	Immune_reponse_to_smallpox_(secreted_IL-2)	3E-11	NR	NR	rs13088281	A	NR	22610502	
+TOMM20	Immune_reponse_to_smallpox_(secreted_IL-2)	5E-10	NR	NR	rs908327	C	NR	22610502	
+ITIH3,_ITIH4	Immune_reponse_to_smallpox_(secreted_IL-2)	2E-9	NR	NR	rs17331151	A	NR	22610502	
+CNTN5	Immune_reponse_to_smallpox_(secreted_IL-2)	9E-9	NR	NR	rs11223581	G	NR	22610502	
+GRIN2B	Immune_reponse_to_smallpox_(secreted_IL-2)	1E-8	NR	NR	rs2268118	A	NR	22610502	
+NGFR	Immune_reponse_to_smallpox_(secreted_IL-2)	2E-8	NR	NR	rs16948200	A	NR	22610502	
+AUTS2	Immune_reponse_to_smallpox_(secreted_IL-2)	2E-8	NR	NR	rs1403155	A	NR	22610502	

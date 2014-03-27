@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CCND2	Red_blood_cell_count	6E-9	.07	[0.047-0.095]_unit_decrease	rs11611647	C	0.37	20139978	
+HBS1L,MYB	Red_blood_cell_count	7E-48	.18	[0.16-0.20]_unit_decrease	rs7775698	T	0.35	20139978	
+TERT	Red_blood_cell_count	3E-8	.07	[0.043-0.091]_unit_increase	rs2736100	G	0.4	20139978	
+ABO	Red_blood_cell_count	3E-12	.09	[0.066-0.116]_unit_decrease	rs495828	T	0.28	20139978	
+PDGFRA,HK1	Red_blood_cell_count	2E-17	.11	[0.086-0.136]_unit_decrease	rs218237	T	0.27	20139978	
+USP49,MED20,BYSL,CCND3	Red_blood_cell_count	1E-10	.10	[0.068-0.126]_unit_increase	rs3218097	T	0.19	20139978	
+PRKCE	Red_blood_cell_count	4E-8	.09	[0.056-0.118]_unit_decrease	rs10495928	G	0.17	20139978	
+C6orf182,CD164	Red_blood_cell_count	7E-9	.11	[0.075-0.153]_unit_decrease	rs11966072	G	0.1	20139978	

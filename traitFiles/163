@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ATM	Response_to_metformin	3E-9	NR	NR	rs11212617	A	0.44	21845381	
+ATM,_C111orf65	Response_to_metformin	3E-9	1.35	[1.22-1.49]_	rs11212617	C	0.44	21186350	

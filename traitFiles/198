@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TOMM40	Cognitive_decline	2E-8	.20	[0.12-0.28]_unit_decrease	rs2075650	G	NR	23207651	

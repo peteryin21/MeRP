@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+C11orf10,_FADS1,_FADS2,_FEN1,_FADS3	Stearic_acid_(18:0)_plasma_levels	1E-20	.18	[0.142-0.218]_unit_decrease	rs102275	C	0.322	23362303	
+ALG14,_TMEM56	Stearic_acid_(18:0)_plasma_levels	2E-18	.17	[0.128-0.202]_unit_decrease	rs6675668	T	0.49	23362303	
+RWDD3_	Stearic_acid_(18:0)_plasma_levels	2E-15	.25	__unit_decrease_	rs6671200_	A	NR_	23362303	
+CNN3_	Stearic_acid_(18:0)_plasma_levels	2E-14	.15	__unit_increase_	rs860873_	A	NR_	23362303	
+LPGAT1_	Stearic_acid_(18:0)_plasma_levels	3E-9	.17	[0.113-0.223]__unit_decrease_	rs11119805_	A	0.123	23362303	

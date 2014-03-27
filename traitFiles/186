@@ -1,0 +1,16 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+NA	Primary_tooth_development_(number_of_teeth)	3E-8	.14	[0.092-0.194]_unit_increase	rs10932688	G	NR	23704328	
+CALU,_OPN1SW	Primary_tooth_development_(number_of_teeth)	4E-9	.14	[0.097-0.191]_unit_increase	rs1799922	T	NR	23704328	
+CACNB2	Primary_tooth_development_(number_of_teeth)	2E-9	.14	[0.096-0.186]_unit_increase	rs10740993	C	NR	23704328	
+ADK,_VCL,_AP3M1	Primary_tooth_development_(number_of_teeth)	8E-16	.19	[0.15-0.24]_unit_increase	rs7924176	A	NR	23704328	
+MSRB3	Primary_tooth_development_(number_of_teeth)	2E-9	.15	[0.1-0.198]_unit_increase	rs12229918	C	NR	23704328	
+HMGA2	Primary_tooth_development_(number_of_teeth)	1E-10	.18	[0.13-0.24]_unit_increase	rs17101923	G	NR	23704328	
+DLEU7	Primary_tooth_development_(number_of_teeth)	3E-8	.13	[0.086-0.18]_unit_increase	rs9316505	A	NR	23704328	
+AJUBA,_C14orf93	Primary_tooth_development_(number_of_teeth)	3E-8	.15	[0.097-0.203]_unit_increase	rs997154	G	NR	23704328	
+IGF2BP1	Primary_tooth_development_(number_of_teeth)	7E-16	.19	[0.14-0.24]_unit_increase	rs1994969	T	NR	23704328	
+KCNJ2,_KCNJ16	Primary_tooth_development_(number_of_teeth)	2E-19	.22	[0.17-0.27]_unit_increase	rs8080944	A	NR	23704328	
+FAM155E,_EDA	Primary_tooth_development_(number_of_teeth)	7E-19	.20	[0.16-0.24]_unit_increase	rs11796357	G	NR	23704328	
+KCNJ2	Primary_tooth_development_(number_of_teeth)	1E-14	1.15	[NR]_%_variance_explained	rs8079702	G	0.39	20195514	
+EDA	Primary_tooth_development_(number_of_teeth)	5E-11	.73	[NR]_%_variance_explained	rs4844096	G	0.42	20195514	
+IGF2BP1	Primary_tooth_development_(number_of_teeth)	2E-8	.27	[NR]_%_variance_explained	rs9674544	G	0.46	20195514	
+RAD51L1	Primary_tooth_development_(number_of_teeth)	3E-8	.51	[NR]_%_variance_explained	rs1956529	T	0.38	20195514	

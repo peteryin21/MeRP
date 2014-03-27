@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ANK3	Autism_spectrum_disorder,_attention_deficit-hyperactivity_disorder,_bipolar_disorder,_major_depressive_disorder,_and_schizophrenia_(combined)	3E-9	1.08	[1.03-1.13]_	rs10994359	C	NR	23453885	

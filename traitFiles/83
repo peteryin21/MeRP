@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-DQB1	Follicular_lymphoma	2E-21	1.56	[1.43-1.72]_	rs2647012	G	0.56	21533074	
+HLA-DQB1	Follicular_lymphoma	1E-29	1.95	[1.72-2.22]_	rs10484561	G	0.11	20639881	
+Intergenic	Follicular_lymphoma	4E-9	1.81	[1.50-2.20]_	rs735665	T	0.21	20639881	
+STG,_PSORS1	Follicular_lymphoma	5E-11	1.69	[1.43-2.00]_	rs6457327	C	0.62	19620980	

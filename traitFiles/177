@@ -1,0 +1,14 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LOC100128354	Metabolic_syndrome_(bivariate_traits)	8E-9	.19	[0.13-0.25]_unit_decrease	rs1387153	C	NR	21386085	
+CETP	Metabolic_syndrome_(bivariate_traits)	3E-13	.29	[0.21-0.37]_unit_increase	rs3764261	G	NR	21386085	
+LPL	Metabolic_syndrome_(bivariate_traits)	3E-8	.18	[0.12-0.24]_unit_decrease	rs1441756	G	NR	21386085	
+CETP	Metabolic_syndrome_(bivariate_traits)	7E-12	.31	[0.21-0.41]_unit_decrease	rs9939224	G	0.46	21386085	
+LOC100128354	Metabolic_syndrome_(bivariate_traits)	2E-9	.21	[0.15-0.27]_unit_decrease	rs1387153	C	NR	21386085	
+LIPC	Metabolic_syndrome_(bivariate_traits)	1E-8	.17	[0.11-0.23]_unit_decrease	rs2043085	A	NR	21386085	
+CETP	Metabolic_syndrome_(bivariate_traits)	1E-16	.29	[0.23-0.35]_unit_increase	rs173539	C	NR	21386085	
+LPL	Metabolic_syndrome_(bivariate_traits)	3E-11	.22	[0.16-0.28]_unit_decrease	rs301	C	NR	21386085	
+LOC100129150	Metabolic_syndrome_(bivariate_traits)	4E-8	.24	[0.16-0.32]_unit_increase	rs9987289	A	NR	21386085	
+LOC100128354	Metabolic_syndrome_(bivariate_traits)	5E-11	.20	[0.14-0.26]_unit_decrease	rs10830956	C	NR	21386085	
+LPL	Metabolic_syndrome_(bivariate_traits)	2E-9	.18	[0.12-0.24]_unit_increase	rs2197089	C	NR	21386085	
+BUD13	Metabolic_syndrome_(bivariate_traits)	6E-9	.32	[0.20-0.44]_unit_increase	rs11820589	A	NR	21386085	
+ZNF259	Metabolic_syndrome_(bivariate_traits)	1E-8	.32	[0.20-0.44]_unit_decrease	rs12286037	C	NR	21386085	

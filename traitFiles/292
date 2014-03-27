@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+NELL-1	Thiazide-induced_adverse_metabolic_effects_in_hypertensive_patients	7E-9	28.20	[18.67-37.73]_mg/dL_increase	rs12279250	C	0.15	23400010	

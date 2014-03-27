@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BTNL2,_HLA-DQA2,_HLA-DQB1	Knee_osteoarthritis	5E-9	1.31	[1.20-1.44]_	rs10947262	T	0.42	20305777	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CTNNA2	Orthostatic_hypotension	5E-8	1.38	[NR]_mmHg_decrease	rs6736587	C	0.16	24124408	

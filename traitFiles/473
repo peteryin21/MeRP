@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+COL4A1	Arterial_stiffness	5E-8	21.00	[11.79-30.21]_cm/s_increase	rs3742207	C	0.44	20031579	

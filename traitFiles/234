@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+KIAA1005	Vitiligo_(non-segmental)	6E-11	2.77	[2.04-3.76]_	rs3213758	A	.497	23678272	

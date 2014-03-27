@@ -1,0 +1,14 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+EDNRB	Hair_color	2E-14	.08	[0.060-0.100]_unit_increase	rs975739	G	NR	23548203	
+IRF4	Hair_color	1E-28	.35	[0.29-0.41]_unit_increase	rs12203592	C	NR	23548203	
+KITLG	Hair_color	7E-19	.18	[0.14-0.22]_unit_increase	rs12821256	C	NR	23548203	
+SLC24A4	Hair_color	2E-36	.16	[0.14-0.18]_unit_decrease	rs12896399	G	NR	23548203	
+HERC2	Hair_color	1E-167	.39	[0.37-0.41]_unit_increase	rs12913832	G	NR	23548203	
+MC1R	Hair_color	3E-9	.16	[0.10-0.22]_unit_decrease	rs1805007	C	NR	23548203	
+OCA2	Hair_color	9E-88	.97	[NR]_unit_increase	rs12913832	A	0.23	20585627	
+IRF4	Hair_color	2E-28	.59	[NR]_unit_increase	rs12203592	T	0.18	20585627	
+SLC45A2	Hair_color	4E-20	1.10	[NR]_unit_increase	rs16891982	C	0.03	20585627	
+MC1R	Hair_color	3E-10	.56	[NR]_unit_decrease	rs12931267	G	0.08	20585627	
+MC1R	Hair_color	5E-87	.56	[NR]_unit_increase	rs12931267	G	0.08	20585627	
+ASIP	Hair_color	2E-15	.22	[NR]_unit_increase	rs291671	G	0.10	20585627	
+SLC24A4	Hair_color	5E-13	.31	[NR]_unit_decrease	rs12896399	T	0.44	20585627	

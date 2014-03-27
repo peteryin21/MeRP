@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+NPRL3	Sickle_cell_anemia_(haemolysis)	2E-9	.44	[0.30-0.58]_unit_decrease	rs7203560	C	0.07	23406172	
+OR51L1	Sickle_cell_anemia_(haemolysis)	1E-29	.82	[0.68-0.96]_unit_decrease	rs2445284	G	0.05	23406172	
+OR51I1,_OR51I2	Sickle_cell_anemia_(haemolysis)	3E-10	.26	[0.18-0.34]_unit_decrease	rs7948471	A	.21	23406172	

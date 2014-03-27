@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-DPA1	Hepatitis_B_(viral_clearance)	4E-45	1.82	[1.67-1.96]_	rs3077	C	0.60	22737229	
+HLA-DPB1	Hepatitis_B_(viral_clearance)	2E-21	1.64	[1.47-1.82]_	rs9277535	G	0.57	22737229	
+HLA-DPA1	Hepatitis_B_(viral_clearance)	1E-9	1.67	[1.43-2.0]_	rs3077	C	0.60	22737229	
+HLA-DPB1	Hepatitis_B_(viral_clearance)	2E-17	1.52	[1.37-1.67]_	rs9277535	G	0.57	22737229	

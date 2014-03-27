@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LOC100129158	Educational_attainment	4E-10	.10	[NR]_unit_increase	rs9320913	A	0.483	23722424	
+LOC150577	Educational_attainment	5E-11	1.05	[NR]_	rs4851266	T	0.396	23722424	
+BTN1A1	Educational_attainment	2E-8	.09	[NR]_unit_increase	rs1056667	T	0.538	23722424	
+GBX2	Educational_attainment	3E-8	.11	[NR]_unit_increase	rs11687170	T	0.770	23722424	
+TANK	Educational_attainment	4E-8	.09	[NR]_unit_decrease	rs7309	A	0.476	23722424	

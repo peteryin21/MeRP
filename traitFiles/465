@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HEATR3	Esophageal_cancer_(squamous_cell)	2E-20	1.24	[1.18-1.29]_	rs4785204	T	0.26	22960999	
+HAP1	Esophageal_cancer_(squamous_cell)	3E-16	1.27	[1.20-1.34]_	rs6503659	A	0.13	22960999	
+XBP1	Esophageal_cancer_(squamous_cell)	4E-15	1.18	[1.13-1.23]_	rs2239815	T	0.37	22960999	
+ST6GAL1	Esophageal_cancer_(squamous_cell)	6E-14	1.21	[1.15-1.27]_	rs2239612	T	0.19	22960999	
+SMG6	Esophageal_cancer_(squamous_cell)	2E-11	1.21	[1.14-1.28]_	rs17761864	A	0.14	22960999	
+PTPN2	Esophageal_cancer_(squamous_cell)	2E-11	1.20	[1.14-1.26]_	rs2847281	C	0.16	22960999	
+CHEK2	Esophageal_cancer_(squamous_cell)	2E-22	1.27	[1.21-1.34]_	rs4822983	T	0.20	22960999	

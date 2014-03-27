@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SMG6,_SRR,_TSR1,_SGSM2	Aortic_root_size	2E-11	.03	[0.02-0.04]_cm_increase	rs10852932	T	0.36	19584346	
+CCDC100,_PPIC	Aortic_root_size	1E-11	.03	[0.02-0.04]_cm_increase	rs17470137	A	0.29	19584346	
+HMGA2	Aortic_root_size	2E-9	.03	[0.02-0.04]_cm_decrease	rs4026608	C	0.38	19584346	
+PDE3A	Aortic_root_size	2E-8	.03	[0.02-0.04]_cm_increase	rs10770612	G	0.19	19584346	

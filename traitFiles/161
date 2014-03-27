@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ABO	Inflammatory_biomarkers	9E-25	NR	NR	rs643434	A	0.258	22291609	
+CR1	Inflammatory_biomarkers	9E-14	NR	NR	rs12034598	A	0.408	22291609	
+DARC	Inflammatory_biomarkers	4E-51	NR	NR	rs12075	A	0.49	22291609	
+CADM3	Inflammatory_biomarkers	9E-14	NR	NR	rs3026968	T	0.12	22291609	
+CRP	Inflammatory_biomarkers	2E-20	NR	NR	rs1341665	A	0.963	22291609	
+DARC	Inflammatory_biomarkers	2E-11	NR	NR	rs3845624	C	0.47	22291609	
+HBB	Inflammatory_biomarkers	2E-9	NR	NR	rs4910742	G	0.066	22291609	

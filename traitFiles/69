@@ -1,0 +1,7 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MYNN,_TERC	Multiple_myeloma	9E-14	1.26	[1.18-1.33]_	rs10936599	G	0.8	23955597	
+PSORS1C1,_CCHCR1,_CDSN,_TCF19,_POU5F1	Multiple_myeloma	1E-10	1.19	[1.13-1.26]_	rs2285803	A	0.32	23955597	
+TNFRSF13B	Multiple_myeloma	8E-9	1.26	[1.16-1.36]_	rs4273077	G	0.12	23955597	
+CBX7	Multiple_myeloma	8E-16	1.23	[1.17-1.29]_	rs877529	A	0.51	23955597	
+DNAH11	Multiple_myeloma	3E-14	1.38	[1.28-1.50]_	rs4487645	C	0.65	22120009	
+ULK4	Multiple_myeloma	2E-8	1.32	[1.20-1.45]_	rs1052501	G	0.16	22120009	

@@ -1,0 +1,7 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LIN28B	Menarche_and_menopause_(age_at_onset)	3E-13	.16	[0.12-0.20]_years_older	rs314277	A	0.14	19448621	
+Intergenic	Menarche_and_menopause_(age_at_onset)	3E-9	.09	[0.06-0.12]_years_younger	rs7861820	C	0.48	19448621	
+TRMT6,_MCM8	Menarche_and_menopause_(age_at_onset)	1E-21	1.07	[0.85-1.29]_years_older	rs16991615	A	0.06	19448621	
+BRSK1	Menarche_and_menopause_(age_at_onset)	2E-19	.49	[0.38-0.60]_years_younger	rs1172822	T	0.37	19448621	
+UIMC1	Menarche_and_menopause_(age_at_onset)	8E-14	.39	[0.29-0.49]_years_older	rs365132	T	0.49	19448621	
+GCM2,_SYCP2L	Menarche_and_menopause_(age_at_onset)	5E-8	.29	[0.19-0.39]_years_older	rs2153157	T	0.49	19448621	

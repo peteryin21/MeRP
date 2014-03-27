@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+C6orf10	Hepatitis_C_induced_liver_cirrhosis	9E-11	1.46	[1.28-1.62]_	rs910049	A	0.142	23321320	
+BTNL2	Hepatitis_C_induced_liver_cirrhosis	1E-8	1.30	[1.18-1.42]_	rs3817963	A	0.315	23321320	
+Intergenic	Hepatitis_C_induced_liver_cirrhosis	1E-10	1.37	[1.24-1.51]_	rs9405098	A	0.253	23321320	
+Intergenic	Hepatitis_C_induced_liver_cirrhosis	1E-10	1.37	[1.24-1.51]_	rs3135363	C	0.702	23321320	
+Intergenic	Hepatitis_C_induced_liver_cirrhosis	1E-9	1.36	[1.22-1.49]_	rs3129860	A	0.231	23321320	

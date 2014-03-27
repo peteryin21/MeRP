@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+RNF213	Moyamoya_disease	2E-8	4.82	[2.73-8.49]_	rs6565681	A	0.37	21048783	

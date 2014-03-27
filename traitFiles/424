@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ASIP	Red_vs._non-red_hair_color	3E-9	1.76	[1.34-2.31]_	rs1015362,_rs4911414	G	0.08	18488028	

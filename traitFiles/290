@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CHI3L1	YKL-40_levels	1E-13	.30	[NR]_ng/ml_decrease	rs4950928	G	0.29	18403759	

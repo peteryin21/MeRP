@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TLR10,TLR1,FAM114A1,TLR6,KLF3	Helicobacter_pylori_serologic_status	1E-18	1.43	[1.32-1.54]_	rs10004195	A	0.75	23652523	
+FCGR2A,HSPA6	Helicobacter_pylori_serologic_status	2E-8	1.37	[1.23-1.54]_	rs368433	C	0.84	23652523	

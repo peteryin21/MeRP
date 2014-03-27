@@ -1,0 +1,7 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+KLKB1	Circulating_vasoactive_peptide_levels_	4E-52	.03	[0.027-0.035]_nmol/l_increase	rs4253238	C	0.46	23381795	
+KLKB1	Circulating_vasoactive_peptide_levels_	1E-122	5.14	[4.71-5.56]_pmol/l_increase	rs4253238	C	0.46	23381795	
+F12	Circulating_vasoactive_peptide_levels_	6E-24	.02	[0.018-0.026]_nmol/l_increase	rs2731672	T	0.24	23381795	
+F12	Circulating_vasoactive_peptide_levels_	1E-67	4.61	[4.09-5.13]_pmol/l_increase	rs2731672	T	0.24	23381795	
+EDN1	Circulating_vasoactive_peptide_levels_	1E-27	2.96	[2.42-3.49]_pmol/l_increase	rs5370	T	0.22	23381795	
+ADM	Circulating_vasoactive_peptide_levels_	1E-12	.02	[0.011-0.019]_nmol/l_decrease	rs2957692	G	0.40	23381795	

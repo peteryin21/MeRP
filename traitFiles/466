@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ALG14,_RWDD3,_CNN3,_TMEM56_	Palmitic_acid_(16:0)_plasma_levels	3E-11	.18	[0.125-0.23]__unit_incease_	rs2391388_	C	0.451	23362303	

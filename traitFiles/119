@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CHRNA3,CHRNA5,CHRNB4	Nicotine_dependence	6E-20	.10	[0.08-0.12]_increase_in_cigarettes_per_day	rs1051730	T	0.35	18385739	

@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CETP	Lipid_traits	5E-11	6.57	_unit_decrease	rs9989419	A	0.42	24023261	
+APOC1	Lipid_traits	1E-14	.25	_unit_increase	rs4420638	G	0.17	24023261	
+LPL	Lipid_traits	6E-10	-.24	_unit_decrease	rs17482753	T	0.09	24023261	

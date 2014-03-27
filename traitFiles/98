@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Keloid	6E-23	1.77	[1.58-1.99]_	rs873549	C	0.28	20711176	
+LOC389151,_FOXL2	Keloid	2E-13	1.87	[1.58-2.21]_	rs1511412	A	0.08	20711176	
+NEDD4	Keloid	6E-13	1.51	[1.35-1.69]_	rs8032158	C	0.36	20711176	

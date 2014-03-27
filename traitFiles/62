@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLC14A1	Bladder_cancer	8E-11	1.17	[1.11-1.22]_	rs17674580	T	0.33	21750109	
+CCNE1	Bladder_cancer	2E-11	1.13	[1.09-1.17]_	rs8102137	C	0.33	20972438	
+MYC	Bladder_cancer	2E-18	1.21	[1.16-1.27]_	rs9642880	T	0.45	20972438	
+PSCA	Bladder_cancer	4E-11	1.13	[1.09-1.17]_	rs2294008	T	0.46	20972438	
+TMEM129,TACC3,FGFR3	Bladder_cancer	4E-13	1.20	[1.14-1.26]_	rs798766	T	0.19	20972438	
+TP63	Bladder_cancer	2E-10	1.18	[1.12-1.24]_	rs710521	A	0.73	20972438	
+PSCA	Bladder_cancer	2E-10	1.15	[1.10-1.20]_	rs2294008	T	0.46	19648920	

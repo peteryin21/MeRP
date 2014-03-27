@@ -1,0 +1,16 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SCN10A	Electrocardiographic_traits	3E-15	3.33	[2.51-4.15]_ms_increase	rs6795970	A	0.36	20062061	
+NOS1AP	Electrocardiographic_traits	7E-10	2.53	[1.73-3.33]_ms_decrease	rs1415259	A	0.39	20062061	
+SCN10A	Electrocardiographic_traits	1E-58	14.81	[13.01-16.60]_%_s.d._increase	rs6795970	A	0.36	20062063	
+ARHGAP24	Electrocardiographic_traits	3E-17	8.46	[6.50-10.42]_%_s.d._increase	rs7660702	T	0.74	20062063	
+SCN10A	Electrocardiographic_traits	4E-9	5.17	[3.46-6.89]_%_s.d._increase	rs6795970	A	0.36	20062063	
+CDKN1A	Electrocardiographic_traits	3E-10	6.52	[4.50-8.55]_%_s.d._increase	rs1321311	T	0.21	20062063	
+CAV1	Electrocardiographic_traits	7E-13	6.40	[4.65-8.15]_%_s.d._increase	rs3807989	A	0.40	20062063	
+TBX5	Electrocardiographic_traits	3E-13	7.35	[5.37-9.33]_%_s.d._increase	rs3825214	G	0.22	20062063	
+MYH6	Electrocardiographic_traits	9E-11	5.25	[3.66-6.83]_%_s.d._increase	rs365990	G	0.34	20062063	
+TBX5	Electrocardiographic_traits	3E-12	7.36	[5.29-9.43]_%_s.d._increase	rs3825214	G	0.22	20062063	
+NOS1AP	Electrocardiographic_traits	5E-22	12.20	[9.72-14.68]_%_s.d._increase	rs10494366	G	0.39	20062063	
+SCN5A	Electrocardiographic_traits	5E-10	8.24	[5.64-10.83]_%_s.d._decrease	rs11129795	G	0.77	20062063	
+KCNH2	Electrocardiographic_traits	5E-11	11.95	[8.39-15.51]_%_s.d._increase	rs3807375	T	0.35	20062063	
+KCNQ1	Electrocardiographic_traits	8E-11	13.16	[9.19-17.12]_%_s.d._increase	rs12296050	T	0.15	20062063	
+KCNE1	Electrocardiographic_traits	2E-12	11.70	[8.46-14.94]_%_s.d._increase	rs727957	T	0.19	20062063	

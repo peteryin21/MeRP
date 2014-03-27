@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HMGA2	Permanent_tooth_development	2E-12	.11	[0.08-0.14]_unit_decrease	rs12424086	C	0.18	21931568	
+TNP1	Permanent_tooth_development	2E-14	.10	[0.07-0.13]_unit_decrease	rs4491709	T	0.71	21931568	
+CACNA1S	Permanent_tooth_development	8E-17	.10	[0.08-0.12]_unit_decrease	rs2281845	T	0.38	21931568	
+ADK	Permanent_tooth_development	6E-18	.11	[0.08-0.13]_unit_decrease	rs7924176	G	0.43	21931568	

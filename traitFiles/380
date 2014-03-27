@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PLEKHA7	Glaucoma_(primary_open-angle)	5E-12	1.22	[NR]_	rs11024102	G	NR	22922875	
+COL11A1	Glaucoma_(primary_open-angle)	9E-10	1.20	[NR]_	rs3753841	G	NR	22922875	
+PCMTD1-ST18	Glaucoma_(primary_open-angle)	3E-9	1.50	[NR]_	rs1015213	A	NR	22922875	
+SIX1,_SIX6	Glaucoma_(primary_open-angle)	4E-11	1.32	[1.21-1.43]_	rs10483727	A	NR	22570617	
+CDKN2B	Glaucoma_(primary_open-angle)	5E-11	1.33	[1.22-1.43]_	rs1063192	T	0.79	22419738	
+CDKN2B-AS1	Glaucoma_(primary_open-angle)	9E-11	1.78	[1.50-2.12]_	rs7865618	A	0.82	22428042	
+CAV1,CAV2	Glaucoma_(primary_open-angle)	2E-11	1.27	[1.18-1.36]_	rs4236601	A	0.23	20835238	

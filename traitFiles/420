@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GCKR	Two-hour_glucose_challenge	3E-10	.07	[0.05-0.09]_mmol/L_increase	rs1260326	T	NR	20081857	
+ADCY5	Two-hour_glucose_challenge	7E-16	.09	[0.07-0.11]_mmol/L_increase	rs2877716	C	NR	20081857	
+GIPR	Two-hour_glucose_challenge	3E-12	.09	[0.07-0.11]_mmol/L_increase	rs10423928	A	NR	20081857	

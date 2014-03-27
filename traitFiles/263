@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+STX18,_MSX1,_LOC100507266	Congenital_heart_disease	3E-10	1.46	[NR]_	rs870142	A	0.228	23708191	

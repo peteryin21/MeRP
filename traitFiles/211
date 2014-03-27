@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ARMS2,HTRA1,PLEKHA1,BTBD16	Age-related_macular_degeneration_(extreme_sampling)	3E-29	3.12	[2.55-3.80]_	rs3750848	C	0.37	23577725	

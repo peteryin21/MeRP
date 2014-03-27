@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IGFBP3	Insulin-like_growth_factors	3E-101	NR	NR	rs11977526	A	0.41	21216879	
+TNS3	Insulin-like_growth_factors	4E-21	NR	NR	rs700752	G	0.65	21216879	
+TNS3	Insulin-like_growth_factors	5E-9	NR	NR	rs700752	G	0.65	21216879	
+SORCS2	Insulin-like_growth_factors	5E-10	NR	NR	rs4234798	T	0.39	21216879	
+NUBP2,_IGFALS	Insulin-like_growth_factors	1E-11	NR	NR	rs1065656	G	0.68	21216879	

@@ -1,0 +1,12 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+RPL6	Esophageal_cancer	2E-15	1.30	[1.22-1.38]_	rs11066280	A	0.21	21642993	
+C12orf51	Esophageal_cancer	2E-31	1.56	[1.45-1.68]_	rs2074356	T	0.13	21642993	
+CSNK1A1	Esophageal_cancer	5E-9	2.04	[1.61-2.56]_	rs10058728	T	0.98	21642993	
+ANP32A	Esophageal_cancer	1E-11	1.56	[1.37-1.78]_	rs8030672	A	0.03	21642993	
+PLCE1	Esophageal_cancer	4E-20	1.34	[1.26-1.42]_	rs2274223	G	0.21	21642993	
+PDE4D	Esophageal_cancer	2E-19	1.49	[1.37-1.61]_	rs10052657	C	0.78	21642993	
+ACAD10	Esophageal_cancer	7E-21	1.38	[1.29-1.48]_	rs11066015	A	0.19	21642993	
+RUNX1	Esophageal_cancer	8E-22	1.43	[1.33-1.54]_	rs2014300	G	0.83	21642993	
+UNC5CL	Esophageal_cancer	7E-12	1.33	[1.23-1.45]_	rs10484761	G	0.09	21642993	
+BRAP,_ALDH2	Esophageal_cancer	3E-24	1.67	[1.58-1.76]_	rs671	A	NR	19698717	
+ADH6,_ADH1B	Esophageal_cancer	8E-24	1.79	[1.69-1.88]_	rs1229984	G	NR	19698717	

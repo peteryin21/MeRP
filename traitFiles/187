@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ABO,_LOC653163,_ADAMTS13,_OBP2B,_OBP2A,_C9orf96,_LOC286310,_SURF6,_SURF5	Coagulation_factor_levels	1E-128	.33	[0.30-0.36]_lU/dL_increase	rs687289	T	0.751	23267103	
+ABO,_LOC653163,_ADAMTS13,_OBP2B,_OBP2A,_C9orf96,_LOC286310,_SURF6,_SURF5	Coagulation_factor_levels	4E-34	.34	[NR]_lU/dL_decrease	rs8176704	A	NR	23267103	
+VWF	Coagulation_factor_levels	5E-16	.12	[0.091-0.149]_lU/dL_decrease	rs1063856	A	0.395	23267103	
+ABO	Coagulation_factor_levels	2E-138	.34	[NR]_lU/dL_decrease	rs687289,_rs8176704,_rs8176749	S	0.720	23267103	
+ABO	Coagulation_factor_levels	4E-98	.36	[NR]_lU/dL_increase	rs687289,_rs8176704,_rs8176749	S	0.155	23267103	
+ABO	Coagulation_factor_levels	7E-50	.36	[NR]_lU/dL_increase	rs687289,_rs8176704,_rs8176749	S	0.0722	23267103	
+PROCR	Coagulation_factor_levels	6E-37	NR	NR	rs867186	G	0.101	20231535	
+STXBP5	Coagulation_factor_levels	1E-22	4.80	[2.1-7.5]_%_decrease	rs9390459	A	0.442	20231535	

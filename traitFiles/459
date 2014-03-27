@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLCO1B1	Methotrexate_clearance_(acute_lymphoblastic_leukemia)	6E-21	12.00	[NR]_mL/min/m2_decrease	rs4149080	C	0.18	23233662	

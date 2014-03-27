@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TNFRSF19	Nasopharyngeal_carcinoma	2E-9	1.20	[1.10-1.30]_	rs9510787	G	0.37	20512145	
+HLA-A	Nasopharyngeal_carcinoma	4E-20	1.88	[1.65-2.15]_	rs2517713	A	0.62	19664746	
+GABBR1	Nasopharyngeal_carcinoma	9E-17	1.67	[1.48-1.88]_	rs29232	A	0.46	19664746	
+HLA-F	Nasopharyngeal_carcinoma	7E-11	1.51	[1.34-1.71]_	rs3129055	G	0.31	19664746	

@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MHC	Renal_function-related_traits_(eGRFcrea)	1E-9	.01	[0.0054-0.0105]_ml/min/1.73m2_decrease	rs3828890	G	0.11	22797727	
+UNCX	Renal_function-related_traits_(eGRFcrea)	1E-10	.01	[0.0040-0.0076]_ml/min/1.73m2_decrease	rs10277115	T	0.35	22797727	
+MPPED2,_DCDC5	Renal_function-related_traits_(eGRFcrea)	1E-9	.00	[0.0029-0.0057]_ml/min/1.73m2_decrease	rs963837	T	0.64	22797727	
+SHROOM3	Renal_function-related_traits_(eGRFcrea)	7E-11	.01	[0.0035-0.0067]_ml/min/1.73m2__decrease	rs13146355	A	0.21	22797727	
+WDR72	Renal_function-related_traits_(eGRFcrea)	6E-13	.01	[0.0039-0.0071]_ml/min/1.73m2__decrease	rs17730436	T	0.60	22797727	
+UMOD	Renal_function-related_traits_(eGRFcrea)	4E-10	.01	[0.0039-0.0075]_ml/min/1.73m2_decrease	rs11864909	C	0.81	22797727	
+BCAS3	Renal_function-related_traits_(eGRFcrea)	5E-11	.01	[0.0035-0.0067]_ml/min/1.73m2_decrease	rs9895661	C	0.52	22797727	

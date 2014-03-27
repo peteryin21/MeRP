@@ -1,0 +1,7 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+NAT8	Glomerular_filtration_rate	4E-8	1.17	[0.76-1.58]_unit_increase	rs10206899	C	0.23	23535967	
+NAT8	Glomerular_filtration_rate	6E-9	1.10	[0.73-1.47]_unit_increase	rs10206899	C	0.23	23535967	
+SHROOM3	Glomerular_filtration_rate	1E-8	.93	[0.62-1.24]_unit_increase	rs10032549	A	0.47	23535967	
+SPATA5L1	Glomerular_filtration_rate	8E-10	1.13	[0.78-1.48]_unit_decrease	rs17536527	C	0.47	23535967	
+NAT8	Glomerular_filtration_rate	2E-9	1.10	[0.75-1.45]_unit_increase	rs10206899	C	0.23	23535967	
+SHROOM3	Glomerular_filtration_rate	2E-9	.96	[0.65-1.27]_unit_decrease	rs4859682	A	0.45	23535967	

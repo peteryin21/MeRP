@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Disc_degeneration_(lumbar)	2E-9	.23	[0.16-0.30]_unit_increase	rs17034687	C	0.09	22993228	
+PSMB9	Disc_degeneration_(lumbar)	3E-8	.23	[0.15-0.31]_unit_increase	rs2187689	C	0.08	22993228	
+PARK2	Disc_degeneration_(lumbar)	3E-8	.13	[0.083-0.177]_unit_decrease	rs926849	C	0.31	22993228	

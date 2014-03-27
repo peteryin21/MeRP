@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TERT	Idiopathic_pulmonary_fibrosis	3E-8	2.11	[1.61-2.78]_	rs2736100	A	0.41	18835860	

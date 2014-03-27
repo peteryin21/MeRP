@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IRF4	Non-melanoma_skin_cancer	7E-14	.21	[0.15-0.27]_unit_increase	rs12203592	T	NR	23548203	
+IRF4,_EXOC2	Non-melanoma_skin_cancer	5E-8	.15	[0.091-0.209]_unit_increase	rs12202284	A	NR	23548203	
+MC1R	Non-melanoma_skin_cancer	3E-10	.34	[0.24-0.44]_unit_increase	rs1805007	C	NR	23548203	

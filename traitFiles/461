@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ZNF648,_GLUL	Cardiovascular_heart_disease_in_diabetics	2E-8	1.36	[1.22-1.51]_	rs10911021	C	0.679	23982368	

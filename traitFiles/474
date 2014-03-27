@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CDKN2A,_CDKN2B	Myocardial_infarction_(early_onset)	3E-44	1.29	[1.25-1.34]_	rs4977574	G	0.56	19198609	
+CELSR2,_PSRC1,_SORT1	Myocardial_infarction_(early_onset)	8E-12	1.19	[1.13-1.26]_	rs646776	T	0.81	19198609	
+MIA3	Myocardial_infarction_(early_onset)	1E-9	1.14	[1.10-1.19]_	rs17465637	C	0.72	19198609	
+CXCL12	Myocardial_infarction_(early_onset)	7E-9	1.17	[1.11-1.24]_	rs1746048	C	0.84	19198609	
+SLC5A3,_MRPS6,_KCNE2	Myocardial_infarction_(early_onset)	6E-11	1.20	[1.14-1.27]_	rs9982601	T	0.13	19198609	
+PHACTR1	Myocardial_infarction_(early_onset)	1E-9	1.12	[1.08-1.17]_	rs12526453	C	0.65	19198609	
+WDR12	Myocardial_infarction_(early_onset)	1E-8	1.17	[1.11-1.23]_	rs6725887	C	0.14	19198609	
+LDLR	Myocardial_infarction_(early_onset)	2E-9	1.15	[1.10-1.20]_	rs1122608	G	0.75	19198609	
+PCSK9	Myocardial_infarction_(early_onset)	1E-8	1.15	[1.10-1.21]_	rs11206510	T	0.81	19198609	

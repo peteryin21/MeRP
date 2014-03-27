@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FTO	Obesity_(early_onset_extreme)	3E-28	1.44	[1.35-1.54]_	rs1421085	C	0.41	23563609	
+MC4R	Obesity_(early_onset_extreme)	9E-14	1.33	[1.23-1.43]_	rs476828	C	0.24	23563609	
+TMEM18	Obesity_(early_onset_extreme)	2E-13	1.42	[1.29-1.56]_	rs12463617	C	0.85	23563609	
+NEGR1	Obesity_(early_onset_extreme)	5E-13	1.38	[1.26-1.50]_	rs1993709	G	0.81	23563609	
+PRKCH	Obesity_(early_onset_extreme)	3E-10	1.50	[1.32-1.70]_	rs1957894	T	0.06	23563609	
+LEPR	Obesity_(early_onset_extreme)	2E-9	1.42	[1.27-1.59]_	rs11208659	C	0.08	23563609	
+PACS1	Obesity_(early_onset_extreme)	2E-9	1.22	[1.15-1.31]_	rs564343	A	0.41	23563609	
+RMST	Obesity_(early_onset_extreme)	4E-9	1.67	[1.41-1.99]_	rs11109072	A	0.03	23563609	
+NEGR1	Obesity_(early_onset_extreme)	2E-8	1.21	[1.13-1.29]_	rs3101336	C	0.60	23563609	

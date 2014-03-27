@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MPPED2,_DCDC5	Renal_function-related_traits_(sCR)	3E-9	.00	[0.0025-0.0049]_mg/dl_increase	rs963837	T	0.64	22797727	
+MHC	Renal_function-related_traits_(sCR)	3E-9	.01	[0.0046-0.0092]_mg/dl_increase	rs3828890	G	0.11	22797727	
+UNCX	Renal_function-related_traits_(sCR)	5E-11	.01	[0.0036-0.0068]_mg/dl_increase	rs10277115	T	0.35	22797727	
+ALDH2	Renal_function-related_traits_(sCR)	3E-10	.00	[0.0031-0.0059]_mg/dl_increase	rs671	A	0.27	22797727	
+SHROOM3	Renal_function-related_traits_(sCR)	9E-12	.00	[0.0033-0.0061]_mg/dl_increase	rs13146355	A	0.21	22797727	
+WDR72	Renal_function-related_traits_(sCR)	1E-13	.01	[0.0036-0.0064]_mg/dl_increase	rs17730436	T	0.60	22797727	
+UMOD	Renal_function-related_traits_(sCR)	1E-10	.01	[0.0036-0.0068]_mg/dl_increase	rs11864909	C	0.81	22797727	
+BCAS3	Renal_function-related_traits_(sCR)	7E-11	.00	[0.0031-0.0059]_mg/dl_increase	rs9895661	C	0.52	22797727	

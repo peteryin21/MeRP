@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SPON1	Brain_connectivity	6E-10	.00	[NR]_unit_increase	rs2618516	T	0.36	23471985	

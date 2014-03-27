@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLC17A1	Iron_levels	5E-9	36.50	[24.27-48.73]_ng/ml_decrease	rs17342717	C	0.93	21208937	
+TF	Iron_levels	3E-47	15.34	[13.26-17.42]_mg/dl_increase	rs3811647	A	0.29	21208937	
+TMPRSS6	Iron_levels	4E-11	4.24	[2.99-5.49]_ug/dl_decrease	rs4820268	G	0.47	21208937	
+HFE	Iron_levels	3E-9	4.95	[3.30-6.60]_ug/dl_decrease	rs1799945	C	0.83	21208937	
+TMPRSS6	Iron_levels	5E-9	4.39	[2.90-5.88]_ug/dL_increase	rs4820268	A	0.54	19880490	

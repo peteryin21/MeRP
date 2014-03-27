@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CDKN2B	Ankle-brachial_index_	9E-9	.00	[0.0029-0.0061]_unit_decrease	rs10757269	G	0.5	22199011	

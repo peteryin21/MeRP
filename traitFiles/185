@@ -1,0 +1,17 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GPR177	Bone_mineral_density_(hip)	2E-12	.10	[0.07-0.13]_s.d._increase	rs2566755	C	0.21	19801982	
+CTNNB1	Bone_mineral_density_(hip)	8E-10	.07	[0.05-0.09]_s.d._decrease	rs87938	A	0.45	19801982	
+MEF2C	Bone_mineral_density_(hip)	1E-13	.09	[0.07-0.11]_s.d._decrease	rs1366594	C	0.45	19801982	
+FLJ42280	Bone_mineral_density_(hip)	5E-12	.08	[0.06-0.10]_s.d._decrease	rs7781370	T	0.34	19801982	
+SOX6	Bone_mineral_density_(hip)	6E-10	.09	[0.06-0.12]_s.d._increase	rs7117858	G	0.20	19801982	
+ARHGAP1	Bone_mineral_density_(hip)	4E-9	.07	[0.05-0.09]_s.d._increase	rs7932354	T	0.29	19801982	
+HDAC5	Bone_mineral_density_(hip)	2E-8	.08	[0.05-0.11]_s.d._increase	rs228769	G	0.20	19801982	
+ESR1	Bone_mineral_density_(hip)	2E-10	.07	[0.05-0.09]_s.d._increase	rs2941740	G	0.43	19801982	
+TNFRSF11B	Bone_mineral_density_(hip)	7E-9	.07	[0.05-0.09]_s.d._decrease	rs11995824	G	0.55	19801982	
+Intergenic	Bone_mineral_density_(hip)	1E-16	.15	[0.11-0.18]_s.d._decrease	rs7524102	A	0.82	19079262	
+ESR1	Bone_mineral_density_(hip)	4E-10	.08	[0.06-0.11]_s.d._decrease	rs1038304	G	0.47	19079262	
+SOST	Bone_mineral_density_(hip)	2E-8	.08	[0.05-0.10]_s.d._decrease	rs1513670	A	0.37	19079262	
+ZBTB40	Bone_mineral_density_(hip)	5E-16	.15	[0.11-0.19]_s.d._decrease	rs7524102	A	0.82	18445777	
+ESR1	Bone_mineral_density_(hip)	5E-9	.08	[0.06-0.11]_s.d._decrease	rs1038304	G	0.47	18445777	
+OPG	Bone_mineral_density_(hip)	3E-11	.09	[0.07-0.12]_s.d._decrease	rs6993813	C	0.50	18445777	
+RANKL	Bone_mineral_density_(hip)	2E-8	.10	[0.06-0.13]_s.d._decrease	rs9594738	T	0.56	18445777	

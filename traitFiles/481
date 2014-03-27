@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GPR35	Sclerosing_cholangitis_and_ulcerative_colitis_(combined)	2E-9	1.38	[1.24-1.53]_	rs4676410	A	0.20	22821403	
+TCF4	Sclerosing_cholangitis_and_ulcerative_colitis_(combined)	3E-8	1.33	[1.20-1.47]_	rs1452787	A	0.72	22821403	

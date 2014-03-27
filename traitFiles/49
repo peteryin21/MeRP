@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HP	Haptoglobin_levels	8E-59	.14	[0.12-0.15]_g/L_decrease_(SFS_family_cohort)	rs2000999	A	NR	22403646	

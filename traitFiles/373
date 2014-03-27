@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-DQA2	Narcolepsy	3E-8	1.79	[1.45-2.17]_	rs2858884	A	0.81	20711174	
+TRA-alpha,_TRAJ10	Narcolepsy	3E-22	1.69	[1.52-1.88]_	rs1154155	C	0.14	19412176	

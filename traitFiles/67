@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+DEPDC5	Chronic_Hepatitis_C_infection	1E-13	1.75	[1.51-2.03]_	rs1012068	G	0.12	21725309	
+ITPA	Chronic_Hepatitis_C_infection	9E-76	NR	NR	rs7270101	C	0.11	20173735	
+ITPA	Chronic_Hepatitis_C_infection	2E-58	NR	NR	rs1127354	A	0.069	20173735	
+IL28B,_IL28A,_IL29	Chronic_Hepatitis_C_infection	6E-9	2.31	[1.74-3.06]_	rs8099917	G	0.24	20060832	

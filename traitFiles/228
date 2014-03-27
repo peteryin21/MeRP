@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PRSS1,_PRSS2	Pancreatitis	2E-14	1.36	[1.30-1.42]_	rs10273639	C	0.576	23143602	
+CLDN2,_MORC4,_RIPPLY1,_TBC1D8B	Pancreatitis	2E-22	1.39	[1.28-1.49]_	rs12688220	T	0.261	23143602	

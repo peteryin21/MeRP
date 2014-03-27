@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ALPL	Folate_pathway_vitamin_levels	8E-18	1.45	[0.90-2.00]_ng/ml_decrease	rs4654748	C	0.50	19303062	
+FUT2	Folate_pathway_vitamin_levels	3E-20	49.77	[37.09-62.45]_pg/ml_increase	rs602662	A	0.53	19303062	

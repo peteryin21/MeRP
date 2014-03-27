@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+UMOD	Chronic_kidney_disease_and_serum_creatinine_levels	4E-10	1.25	[1.17-1.35]_	rs4293393	T	0.798	20686651	

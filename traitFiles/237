@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+AHCLY2	Response_to_fenofibrate	4E-9	4.41	[2.96-5.86]_unit_increase	rs11766298	T	NR	22890011	

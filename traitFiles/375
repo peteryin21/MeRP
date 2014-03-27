@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+XPNPEP1,ADD3	Biliary_atresia	7E-9	1.77	[1.38-2.26]_	rs17095355	T	0.409	20460270	

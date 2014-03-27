@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+Intergenic	Ovarian_cancer_in_BRCA1_mutation_carriers_	1E-8	1.27	[1.17-1.38]_	rs17631303	G	0.19	23544013	
+Intergenic	Ovarian_cancer_in_BRCA1_mutation_carriers_	3E-8	1.25	[1.16-1.35]_	rs183211	A	0.23	23544013	
+Intergenic	Ovarian_cancer_in_BRCA1_mutation_carriers_	3E-8	1.20	[1.17-1.38]_	rs4691139	G	0.48	23544013	
+Intergenic	Ovarian_cancer_in_BRCA1_mutation_carriers_	6E-11	1.30	[1.2-1.41]_	rs3814113	A	0.66	23544013	

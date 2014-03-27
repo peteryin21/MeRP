@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TSPAN2	Migraine_without_aura	5E-8	1.18	[1.11-1.26]_	rs12134493	A	0.12	23793025	
+FHL5	Migraine_without_aura	2E-12	1.18	[1.13-1.24]_	rs11759769	A	0.22	23793025	

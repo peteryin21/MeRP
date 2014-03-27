@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FGF21	Dietary_macronutrient_intake	4E-10	.22	[0.14-0.3]_%_decrease	rs838145	G	0.46	23636237	
+FTO	Dietary_macronutrient_intake	1E-9	.10	[0.061-0.139]_%_increase	rs1421085	C	0.42	23636237	
+FGF21,_FUT1,_FUT2,_IZUMO1,_RASIP1	Dietary_macronutrient_intake	8E-9	.11	[0.071-0.149]_percent_decrease	rs838133	A	0.45	23372041	

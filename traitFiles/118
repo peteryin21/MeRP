@@ -1,0 +1,11 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CPN1,_CHUK,_ERLIN1	Liver_enzyme_levels	2E-8	.04	[0.025-0.053]_U/L_decrease	rs11597390	A	0.36	18940312	
+HNF1A,_C12orf27,_C12orf43	Liver_enzyme_levels	2E-10	.01	[0.003-0.007]_U/L_decrease	rs1169313	C	0.38	18940312	
+JMJD1C	Liver_enzyme_levels	5E-10	.03	[0.017-0.033]_U/L_increase	rs12355784	A	0.48	18940312	
+REEP3	Liver_enzyme_levels	7E-10	.03	[0.017-0.033]_U/L_increase	rs10761779	G	0.49	18940312	
+ADAMTS13	Liver_enzyme_levels	8E-21	.06	[0.048-0.072]_U/L_decrease	rs4962153	A	NR	18940312	
+PNPLA3,_SAMM50	Liver_enzyme_levels	8E-16	.06	[0.046-0.074]_U/L_increase	rs2281135	T	0.18	18940312	
+NBPF3,_ALPL,_RAP1GAP	Liver_enzyme_levels	7E-15	.03	[0.023-0.039]_U/L_increase	rs1780324	T	0.43	18940312	
+ABO	Liver_enzyme_levels	2E-30	.05	[0.039-0.055]_U/L_decrease	rs657152	T	0.39	18940312	
+GPLD1	Liver_enzyme_levels	1E-11	.03	[0.024-0.044]_U/L_increase	rs9467160	A	0.24	18940312	
+GGT1,_C22orf36	Liver_enzyme_levels	4E-11	.01	[0.005-0.009]_U/L_increase	rs4820599	G	0.31	18940312	

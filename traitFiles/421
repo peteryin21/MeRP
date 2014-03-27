@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TPCN2	Blond_vs._brown_hair_color	4E-30	2.49	[1.96-3.15]_	rs35264875	T	0.22	18488028	
+KITLG	Blond_vs._brown_hair_color	4E-30	2.32	[1.86-2.92]_	rs12821256	C	0.14	17952075	
+SLC24A4	Blond_vs._brown_hair_color	1E-48	2.56	[2.12-3.09]_	rs12896399	T	0.44	17952075	
+MC1R	Blond_vs._brown_hair_color	2E-13	2.34	[1.69-3.24]_	rs1805007	T	0.08	17952075	
+OCA2	Blond_vs._brown_hair_color	6E-35	4.94	[3.16-7.71]_	rs1667394	A	0.88	17952075	

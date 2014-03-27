@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LPIN2	Body_mass_index_(asthmatics)	8E-9	NR	NR	rs643507	C	0.01	23517042	

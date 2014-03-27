@@ -1,0 +1,17 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FSHR	Polycystic_ovary_syndrome	1E-12	1.15	[NR]_	rs2268361	C	0.504	22885925	
+C9orf3	Polycystic_ovary_syndrome	5E-14	1.30	[NR]_	rs3802457	G	0.904	22885925	
+YAP1	Polycystic_ovary_syndrome	1E-22	1.27	[NR]_	rs1894116	G	0.194	22885925	
+RAB5B,_SUOX	Polycystic_ovary_syndrome	9E-26	1.27	[NR]_	rs705702	G	0.245	22885925	
+HMGA2	Polycystic_ovary_syndrome	2E-21	1.43	[NR]_	rs2272046	A	0.907	22885925	
+TOX3	Polycystic_ovary_syndrome	4E-11	1.15	[NR]_	rs4784165	G	0.325	22885925	
+INSR	Polycystic_ovary_syndrome	1E-8	1.14	[NR]_	rs2059807	G	1.24	22885925	
+SUMO1P1	Polycystic_ovary_syndrome	2E-9	1.13	[NR]_	rs6022786	A	0.339	22885925	
+LHCGR	Polycystic_ovary_syndrome	4E-9	1.35	[NR]_	rs13405728	A	NR	22885925	
+NR	Polycystic_ovary_syndrome	4E-13	1.49	[NR]_	rs13429458	A	NR	22885925	
+NR	Polycystic_ovary_syndrome	5E-10	1.35	[NR]_	rs2479106	G	NR	22885925	
+GTF2A1L,LHCGR,FSHR	Polycystic_ovary_syndrome	8E-21	1.41	[1.30-1.49]_	rs13405728	A	0.76	21151128	
+ZFP36L2,LOC100129726,THADA	Polycystic_ovary_syndrome	3E-23	1.39	[1.30-1.49]_	rs12478601	C	0.71	21151128	
+DENND1A	Polycystic_ovary_syndrome	8E-19	1.34	[1.26-1.43]_	rs2479106	G	0.22	21151128	
+ZFP36L2,LOC100129726,THADA	Polycystic_ovary_syndrome	2E-23	1.49	[1.39-1.61]_	rs13429458	A	0.91	21151128	
+DENND1A	Polycystic_ovary_syndrome	9E-18	1.51	[1.37-1.65]_	rs10818854	A	0.09	21151128	

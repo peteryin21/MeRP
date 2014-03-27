@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CAPZB	Thyroid_volume	3E-18	.10	[0.08-0.12]_unit_decrease	rs12138950	A	0.847	21565293	
+C15orf33,_FGF7	Thyroid_volume	1E-12	.07	[0.05-0.09]_unit_decrease	rs4338740	T	0.738	21565293	
+MAF	Thyroid_volume	9E-15	.07	[0.05-0.09]_unit_increase	rs17767419	T	0.321	21565293	
+CAPZB	Thyroid_volume	1E-14	1.52	[1.37-1.69]_	rs10917468	C	0.217	21565293	
+C15orf33,_FGF7	Thyroid_volume	3E-13	1.45	[1.32-1.59]_	rs4338740	C	0.261	21565293	
+MAF	Thyroid_volume	4E-10	1.32	[1.21-1.44]_	rs3813579	A	0.518	21565293	
+CAPZB	Thyroid_volume	3E-14	.07	[0.05-0.09]_unit_increase	rs12045440	T	0.664	21565293	
+CAPZB	Thyroid_volume	2E-11	1.38	[1.26-1.51]_	rs12045440	T	0.664	21565293	

@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LPL	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	1E-16	.29	[0.23-0.35]_unit_increase	rs13702	A	NR	21386085	
+CETP	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	5E-16	.26	[0.20-0.32]_unit_increase	rs173539	C	NR	21386085	
+BUD13	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	3E-15	.38	[0.28-0.48]_unit_increase	rs10790162	A	NR	21386085	
+ZNF259	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	2E-14	.39	[0.29-0.49]_unit_increase	rs2075290	C	NR	21386085	
+APOA5	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	5E-13	.39	[0.29-0.49]_unit_increase	rs2266788	C	NR	21386085	
+TRIB1	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	8E-9	.16	[0.10-0.22]_unit_decrease	rs2954026	G	NR	21386085	
+LOC100129500	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	1E-8	.24	[0.16-0.32]_unit_increase	rs439401	C	NR	21386085	
+LOC100129150	HDL_Cholesterol_-_Triglycerides_(HDLC-TG)	1E-8	.25	[0.17-0.33]_unit_increase	rs9987289	A	NR	21386085	

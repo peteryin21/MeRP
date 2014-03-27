@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SSTR1,_CLEC14A	Metabolite_levels_(5-HIAA/_MHPG_Ratio)	5E-8	.32	_unit_increase	rs11622412	T	NR	23319000	

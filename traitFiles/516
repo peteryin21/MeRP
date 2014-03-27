@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CCHCR1	Nevirapine-induced_rash	1E-8	4.36	[2.58-7.36]_	rs1265112	G	0.06	21810746	

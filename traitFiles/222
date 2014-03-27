@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PTGDS	Beta-trace_protein_levels	1E-23	.05	[0.040-0.060]_unit_increase	rs57024841	A	0.58	23328707	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CR1	Erythrocyte_sedimentation_rate	2E-28	.13	[NR]_unit_decrease	rs12034383	G	0.41	21700265	

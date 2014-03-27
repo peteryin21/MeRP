@@ -1,0 +1,14 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+NA	Primary_tooth_development_(time_to_first_tooth_eruption)	2E-10	.19	[0.13-0.25]_unit_decrease	rs6568401	C	NR	23704328	
+ADK,_VCL,_AP3M1	Primary_tooth_development_(time_to_first_tooth_eruption)	2E-8	.17	[0.11-0.22]_unit_decrease	rs7924176	A	NR	23704328	
+CDON	Primary_tooth_development_(time_to_first_tooth_eruption)	4E-8	.15	[0.097-0.203]_unit_decrease	rs4937076	A	NR	23704328	
+MSRB3	Primary_tooth_development_(time_to_first_tooth_eruption)	7E-14	.22	[0.16-0.27]_unit_decrease	rs12229918	C	NR	23704328	
+HMGA2	Primary_tooth_development_(time_to_first_tooth_eruption)	6E-11	.21	[0.15-0.28]_unit_decrease	rs17101923	G	NR	23704328	
+BMP4	Primary_tooth_development_(time_to_first_tooth_eruption)	9E-17	.24	[0.18-0.3]_unit_decrease	rs17563	G	NR	23704328	
+IGF2BP1	Primary_tooth_development_(time_to_first_tooth_eruption)	2E-14	.03	[-0.02592-0.07992]_unit_decrease	rs1994969	T	NR	23704328	
+TEX14,_RAD51C	Primary_tooth_development_(time_to_first_tooth_eruption)	2E-9	.16	[0.11-0.22]_unit_decrease	rs412000	C	NR	23704328	
+KCNJ2,_KCNJ16	Primary_tooth_development_(time_to_first_tooth_eruption)	8E-34	.34	[0.29-0.4]_unit_decrease	rs8080944	A	NR	23704328	
+FAM155E,_EDA	Primary_tooth_development_(time_to_first_tooth_eruption)	3E-22	.25	[0.2-0.3]_unit_decrease	rs11796357	G	NR	23704328	
+KCNJ2	Primary_tooth_development_(time_to_first_tooth_eruption)	4E-22	1.62	[NR]_%_variance_explained	rs8079702	G	0.39	20195514	
+EDA	Primary_tooth_development_(time_to_first_tooth_eruption)	6E-11	.50	[NR]_%_variance_explained	rs5936487	G	0.39	20195514	
+MSRB3	Primary_tooth_development_(time_to_first_tooth_eruption)	6E-9	.46	[NR]_%_variance_explained	rs10506525	C	0.27	20195514	

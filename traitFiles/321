@@ -1,0 +1,16 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FCRL3	Type_1_diabetes_autoantibodies	1E-11	1.52	[NR]_	rs7528684	T	NR	21829393	
+PTPN22	Type_1_diabetes_autoantibodies	2E-111	2.00	[NR]_	rs2476601	A	NR	21829393	
+IL10	Type_1_diabetes_autoantibodies	5E-10	1.20	[NR]_	rs3024505	G	NR	21829393	
+IFIH1	Type_1_diabetes_autoantibodies	2E-14	1.20	[NR]_	rs1990760	C	NR	21829393	
+CTLA4	Type_1_diabetes_autoantibodies	2E-17	1.20	[NR]_	rs3087243	A	NR	21829393	
+BACH2	Type_1_diabetes_autoantibodies	3E-8	1.10	[NR]_	rs11755527	G	NR	21829393	
+IL2RA	Type_1_diabetes_autoantibodies	1E-38	1.61	[NR]_	rs12722495	A	NR	21829393	
+IGF2AS	Type_1_diabetes_autoantibodies	3E-23	1.40	[NR]_	rs1004446	G	NR	21829393	
+IKZF4	Type_1_diabetes_autoantibodies	5E-18	1.25	[NR]_	rs1701704	T	NR	21829393	
+ERBB3	Type_1_diabetes_autoantibodies	3E-27	1.30	[NR]_	rs2292239	T	NR	21829393	
+SH2B3	Type_1_diabetes_autoantibodies	2E-38	1.30	[NR]_	rs3184504	T	NR	21829393	
+CLEC16A	Type_1_diabetes_autoantibodies	5E-14	1.20	[NR]_	rs12708716	G	NR	21829393	
+IL27	Type_1_diabetes_autoantibodies	1E-8	1.15	[NR]_	rs4788084	C	NR	21829393	
+PTPN2	Type_1_diabetes_autoantibodies	4E-13	1.30	[NR]_	rs2542151	G	NR	21829393	
+CD226	Type_1_diabetes_autoantibodies	1E-9	1.12	[NR]_	rs763361	C	NR	21829393	

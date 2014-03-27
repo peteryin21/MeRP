@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LPA	Aortic-valve_calcification	3E-11	2.05	[1.66-2.53]_	rs10455872	G	0.07	23388002	

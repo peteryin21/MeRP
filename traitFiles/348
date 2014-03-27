@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+JMJD1C	Androgen_levels	1E-8	.06	[0.038-0.078]_unit_decrease	rs10822184	T	0.49	22936694	
+SHBG	Androgen_levels	1E-12	.07	[0.053-0.093]_unit_decrease	rs727428	T	0.414	22936694	
+FAM9B	Androgen_levels	2E-8	.09	[0.060-0.122]_unit_increase	rs5934505	G	0.278	22936694	
+SHBG	Androgen_levels	1E-11	.10	[0.074-0.132]_unit_decrease	rs727428	T	0.414	22936694	
+SHBG	Androgen_levels	9E-10	.16	[0.11-0.22]_unit_increase	rs72829446	T	0.101	22936694	

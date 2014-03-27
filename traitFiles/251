@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+apoB	LDL_(oxidized)	3E-47	10.50	_(U/L_increase)	rs676210	G	0.77	23247145	

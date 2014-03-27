@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TCHH	Hair_morphology	3E-31	6.11	[NR]_%_variance	rs11803731	A	0.82	19896111	
+AL450992.4	Hair_morphology	2E-8	NR	NR	rs10788819	T	NR	19896111	

@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PTHLH,_LOC100129646	Breast_size	1E-8	.16	[0.11-0.22]_cup_size_decrease	rs12371778	G	0.091	22747683	
+ZNF703,MRPS7P1,KCNU1	Breast_size	2E-14	.15	[0.11-0.19]_cup_size_decrease	rs7816345	T	0.194	22747683	
+ZNF365,_ALDH7A1P4,_ADO	Breast_size	3E-9	.10	[0.065-0.127]_cup_size_increase	rs7089814	C	0.375	22747683	
+AREG,_EREG,_EPGN,_AREGB	Breast_size	5E-8	.10	[0.064-0.138]_cup_size_decrease	rs62314947	T	0.281	22747683	
+INHBB,_LOC84931,_GLI2	Breast_size	3E-11	.17	[0.12-0.22]_cup_size_increase	rs4849887	T	0.113	22747683	
+ESR1,_C6orf97	Breast_size	6E-11	.17	[0.12-0.22]_cup_size_increase	rs12173570	T	0.101	22747683	
+INHBB	Breast_size	5E-10	.13	[.086-.164]_cup_size_increase	rs17625845	C	.205	22747683	

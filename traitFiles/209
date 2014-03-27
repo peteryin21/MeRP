@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+UGT1A1,_UGT1A10	Cholelithiasis-related_traits_in_sickle_cell_anemia	5E-25	.19	[NR]_unit_increase	rs887829	A	0.45	22558097	

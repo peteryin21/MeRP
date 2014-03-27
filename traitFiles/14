@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SELP	Soluble_levels_of_adhesion_molecules	4E-61	22.60	[19.86-25.34]_%_increase	rs6136	T	NR	20167578	
+SELP	Soluble_levels_of_adhesion_molecules	4E-16	7.30	[5.54-9.06]_%_decrease	rs2235302	T	NR	20167578	
+ABO	Soluble_levels_of_adhesion_molecules	2E-41	14.00	[12.04-15.96]_%_increase	rs579459	T	NR	20167578	
+ICAM-1	Soluble_levels_of_adhesion_molecules	4E-23	4.15	[3.33-4.97]_%_increase	rs3093030	T	NR	20167578	
+ABO	Soluble_levels_of_adhesion_molecules	1E-15	3.95	[2.99-4.91]_%_decrease	rs649129	T	NR	20167578	

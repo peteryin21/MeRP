@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GPR133	RR_interval_(heart_rate)	4E-8	.17	[0.11-0.23]_unit_decrease	rs885389	A	0.30	20031603	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LINGO1	Essential_tremor	1E-9	1.55	[1.35-1.79]_	rs9652490	G	0.23	19182806	

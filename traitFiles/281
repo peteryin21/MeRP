@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PITX2,ENPEP	Atrial_fibrillation/atrial_flutter	3E-41	1.72	[1.59-1.86]_	rs2200733	T	0.11	17603472	
+PITX2,ENPEP	Atrial_fibrillation/atrial_flutter	7E-11	1.39	[1.26-1.53]_	rs10033464	T	0.08	17603472	

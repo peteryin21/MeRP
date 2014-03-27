@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HTRA1	Age-related_macular_degeneration_(wet)	8E-12	1.60	[0.71-3.61]_	rs11200638	A	NR	17053108	

@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TMPRSS6	Hemoglobin	2E-13	.13	[0.09-0.17]_g/dl_decrease	rs855791	A	0.53	19820698	
+HFE	Hemoglobin	1E-8	NR	NR	rs198846	A	NR	19820698	
+PRKCE	Hemoglobin	7E-13	.06	[0.05-0.08]_g/dl_increase	rs10495928	G	NR	19862010	
+HFE	Hemoglobin	6E-19	.16	[0.13-0.20]_g/dl_increase	rs1800562	A	NR	19862010	
+PRKAG2	Hemoglobin	3E-15	.07	[0.05-0.09]_g/dl_increase	rs10224002	G	NR	19862010	
+HK1	Hemoglobin	2E-11	.11	[0.08-0.14]_g/dl_increase	rs16926246	T	NR	19862010	
+TRAFD1	Hemoglobin	1E-11	.06	[0.04-0.08]_g/dl_increase	rs11065987	A	NR	19862010	
+TSHZ2	Hemoglobin	1E-10	.06	[0.05-0.08]_g/dl_decrease	rs6013509	A	NR	19862010	
+TMPRSS6	Hemoglobin	3E-25	.09	[0.07-0.11]_g/dl_decrease	rs855791	A	NR	19862010	

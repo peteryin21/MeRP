@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LOXL1	Glaucoma_(exfoliation)	3E-21	20.10	[10.80-37.41]_	rs3825942	G	0.85	17690259	

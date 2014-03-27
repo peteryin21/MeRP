@@ -1,0 +1,12 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+F5,_SELP	Activated_partial_thromboplastin_time	3E-9	.23	[0.14-0.31]_unit_increase	rs6028	C	NR	22703881	
+AGBL1	Activated_partial_thromboplastin_time	4E-8	.16	[0.081-0.243]_unit_increase	rs2469184	A	NR	22703881	
+ABO,_LOC653163,_SURF2,_SURF4,_ADAMTS13,_C9orf7	Activated_partial_thromboplastin_time	9E-100	.82	[0.73-0.90]_unit_increase	rs687621	A	NR	22703881	
+UIMC1,_FGFR4,_NSD1,_PRELID1,_MXD3,_LMAN2,_RGS14,_SLC34A1,_PRR7,_DBN1,_F12,_GRK6	Activated_partial_thromboplastin_time	6E-88	1.68	[1.48-1.88]_unit_decrease	rs2545801	C	NR	22703881	
+F11	Activated_partial_thromboplastin_time	2E-18	.54	[0.41-0.66]_unit_decrease	rs1593	A	NR	22703881	
+F11	Activated_partial_thromboplastin_time	6E-43	.48	[0.40-0.57]_unit_increase	rs2289252	C	NR	22703881	
+AHSG,_FETUB,_HRG	Activated_partial_thromboplastin_time	1E-111	1.00	[0.92-1.08]_unit_increase	rs9898	C	NR	22703881	
+KNG1,_RFC4,_ADIPOQ	Activated_partial_thromboplastin_time	2E-203	1.18	[1.10-1.26]_unit_decrease	rs710446	C	NR	22703881	
+F12	Activated_partial_thromboplastin_time	2E-30	.45	[0.37-0.53]_unit_decrease	rs2731672	A	0.27	20303064	
+KNG1	Activated_partial_thromboplastin_time	1E-21	.36	[0.29-0.43]_unit_decrease	rs710446	G	0.40	20303064	
+HRG	Activated_partial_thromboplastin_time	1E-11	.26	[0.19-0.33]_unit_increase	rs9898	T	0.32	20303064	

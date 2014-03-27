@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+vaspin,_serpinA4	Vaspin_levels	4E-41	.04	[NR]_unit_decrease	rs11160190	G	NR	22907691	

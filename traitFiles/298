@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PTPRD	Personality_dimensions	3E-8	.06	[-0.0184-0.1384]_unit_decrease	rs2146180	G	NR	23903073	

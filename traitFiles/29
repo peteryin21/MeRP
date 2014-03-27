@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BARD1	Neuroblastoma_(high-risk)	9E-18	1.68	[1.49-1.90]_	rs6435862	G	0.29	19412175	

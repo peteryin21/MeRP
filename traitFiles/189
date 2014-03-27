@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ARMS2,_HTRA1	Age-related_macular_degeneration_(GA)	7E-47	2.52	[2.24-2.83]_	rs10490924	T	.206	22705344	
+C3	Age-related_macular_degeneration_(GA)	5E-13	1.83	[1.56-2.14]_	rs2230199	C	.19	22705344	

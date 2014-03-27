@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GLT6D1	Periodontitis	6E-9	1.59	[1.36-1.86]_	rs1537415	G	0.38	19897590	

@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CDKN2B	Vertical_cup-disc_ratio	4E-15	.01	[0.010-0.018]_mm2_decrease	rs1063192	G	0.46	20548946	
+SIX1	Vertical_cup-disc_ratio	1E-11	.01	[0.008-0.016]_mm2_increase	rs10483727	T	0.41	20548946	
+SCYL1	Vertical_cup-disc_ratio	4E-9	.01	[0.01-0.02]_mm2_decrease	rs17146964	G	0.20	20548946	
+CHEK2	Vertical_cup-disc_ratio	1E-8	.01	[0.007-0.015]_mm2_decrease	rs1547014	T	0.29	20548946	
+ATOH7,_PBLD	Vertical_cup-disc_ratio	2E-8	.01	[0.009-0.017]_mm2_decrease	rs1900004	T	0.22	20548946	
+DCLK1	Vertical_cup-disc_ratio	1E-8	.01	[0.010-0.014]_mm2_increase	rs1926320	C	0.24	20548946	
+BCAS3	Vertical_cup-disc_ratio	3E-8	.01	[0.008-0.016]_mm2_decrease	rs8068952	G	0.23	20548946	

@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLC2A9	Gout	4E-26	.47	[0.38-0.55]_unit_decrease	rs4475146	A	0.2237	23263486	
+ABCG2	Gout	2E-32	.55	[0.46-0.64]_unit_decrease	rs1481012	A	0.8903	23263486	
+ALDH16A1	Gout	2E-16	3.12	[2.38-4.17]_	c.1580C>G	G	0.019	21983786	
+ABCG2	Gout	3E-12	1.67	[1.43-1.92]_	rs2231142	T	0.101	21983786	

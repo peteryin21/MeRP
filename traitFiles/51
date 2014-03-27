@@ -1,0 +1,12 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TARDBP	Male-pattern_baldness	9E-11	1.33	[1.22-1.45]_	rs12565727	A	0.789	22693459	
+HDAC4	Male-pattern_baldness	1E-12	1.31	[1.21-1.41]_	rs9287638	A	0.562	22693459	
+HDAC9	Male-pattern_baldness	1E-12	1.29	[1.20-1.38]_	rs2073963	G	0.530	22693459	
+AUTS2	Male-pattern_baldness	2E-9	1.27	[1.18-1.38]_	rs6945541	C	0.539	22693459	
+Intergenic	Male-pattern_baldness	5E-10	1.33	[1.21-1.45]_	rs12373124	T	0.438	22693459	
+SETBP1	Male-pattern_baldness	3E-9	1.28	[1.18-1.39]_	rs10502861	C	0.775	22693459	
+PAX1,_FOXA2	Male-pattern_baldness	2E-39	1.60	[1.49-1.72]_	rs6047844	T	0.460	22693459	
+AR	Male-pattern_baldness	2E-91	2.20	[2.04-2.37]_	rs2497938	T	0.850	22693459	
+PAX1,_BQ013595,_BE789145	Male-pattern_baldness	3E-15	1.82	[1.45-2.30]_	rs2180439	C	0.43	18849994	
+PAX1	Male-pattern_baldness	1E-14	1.60	[1.42-1.80]_(males)	rs1160312	A	0.43	18849991	
+AR	Male-pattern_baldness	5E-11	3.30	[2.31-4.71]_	rs6625163	A	NR	18849991	

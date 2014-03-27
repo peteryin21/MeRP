@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LRFN2	Multiple_cancers_(lung_cancer,_gastric_cancer,_and_squamous_cell_carcinoma)	5E-9	1.18	[1.12-1.25]_	rs2494938	A	0.23	23103227	
+LRFN2	Multiple_cancers_(lung_cancer,_gastric_cancer,_and_squamous_cell_carcinoma)	1E-12	1.15	[1.10-1.19]_	rs2494938	A	0.23	23103227	
+SP4,_DNAH11	Multiple_cancers_(lung_cancer,_gastric_cancer,_and_squamous_cell_carcinoma)	2E-8	1.17	[1.11-1.24]_	rs2285947	A	0.26	23103227	
+SP4,_DNAH11	Multiple_cancers_(lung_cancer,_gastric_cancer,_and_squamous_cell_carcinoma)	1E-16	1.17	[1.12-1.21]_	rs2285947	A	0.27	23103227	

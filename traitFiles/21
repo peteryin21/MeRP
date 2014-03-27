@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+OCA2	Blue_vs._brown_eyes	1E-241	29.43	[21.47-40.35]_	rs1667394	A	0.88	17952075	

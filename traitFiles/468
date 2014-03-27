@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLC26A9	Cystic_fibrosis-related_diabetes	1E-9	1.39	[1.25-1.54]_	rs4077468	A	0.58	23670970	

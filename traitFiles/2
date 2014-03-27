@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+AGPHD1	Airflow_obstruction_	3E-9	1.22	_	rs8031948	T	0.35	22837378	

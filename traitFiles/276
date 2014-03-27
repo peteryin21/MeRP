@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ZNF516	Renal_transplant_outcome	4E-8	.29	[NR]_unit_increase	rs6565887	G	NR	23432519	

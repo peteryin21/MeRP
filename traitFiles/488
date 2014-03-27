@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+NCOA2,_TRAM1	Cardiac_Troponin-T_levels	9E-9	.04	[0.027-0.059]_ug/L_decrease	rs10091374	A	NR	23247143	
+TNNT2	Cardiac_Troponin-T_levels	5E-8	2.33	[1.72-3.16]_	rs12564445	A	NR	23247143	
+TNNT2	Cardiac_Troponin-T_levels	5E-8	2.33	[1.72-3.16]_	rs12564445	A	NR	23247143	

@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ASIP	Skin_sensitivity_to_sun	2E-24	1.76	[1.49-2.08]_	rs1015362,_rs4911414	G	0.08	18488028	
+MC1R	Skin_sensitivity_to_sun	2E-55	2.94	[2.42-3.58]_	rs1805007	T	0.06	17952075	

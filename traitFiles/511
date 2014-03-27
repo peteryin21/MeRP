@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SLK,_OBFC1	Uterine_fibroids	9E-14	1.47	[1.23-1.75]_	rs7913069	A	0.07	21460842	
+TNRC6B	Uterine_fibroids	3E-12	1.23	[1.11-1.37]_	rs12484776	G	0.36	21460842	
+ODF3,_BET1L,_RIC8A,_SIRT3	Uterine_fibroids	4E-12	1.39	[1.17-1.64]_	rs2280543	G	0.88	21460842	

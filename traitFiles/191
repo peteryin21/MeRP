@@ -1,0 +1,5 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PDE8B	Thyroid_function	3E-27	.12	[0.093-0.137]_unit_decrease	rs2046045	T	0.618	22494929	
+CAPZB	Thyroid_function	2E-8	.06	[0.038-0.078]_unit_decrease	rs10917477	A	0.511	22494929	
+NR3C2	Thyroid_function	3E-10	.08	[0.059-0.109]_unit_increase	rs10028213	C	0.823	22494929	
+LOC440389,_MAF	Thyroid_function	6E-10	.07	[0.046-0.090]_unit_increase	rs3813582	T	0.681	22494929	

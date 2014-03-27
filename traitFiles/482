@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BCHE	Butyrylcholinesterase_levels	6E-262	.71	[0.67-0.75]_SD_decrease	rs1803274	T	0.21	21862451	
+RNPEP	Butyrylcholinesterase_levels	9E-16	.14	[0.10-0.18]_SD_decrease	rs4950806	T	0.40	21862451	
+ABI2	Butyrylcholinesterase_levels	4E-18	.15	[0.12-0.18]_SD_decrease	rs11675251	A	0.45	21862451	

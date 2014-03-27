@@ -1,0 +1,8 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+DEFAs	IgA_nephropathy	3E-14	1.27	[1.19-1.35]_	rs2738048	A	0.68	22197929	
+TNFSF13	IgA_nephropathy	9E-11	1.21	[1.14-1.28]_	rs3803800	A	0.35	22197929	
+MPDU1	IgA_nephropathy	4E-10	1.23	[1.16-1.32]_	rs4227	G	0.21	22197929	
+MTMR3	IgA_nephropathy	1E-11	1.28	[1.19-1.39]_	rs12537	C	0.81	22197929	
+HLA-A	IgA_nephropathy	2E-11	1.21	[1.15-1.28]_	rs2523946	C	0.50	22197929	
+HLA-DRB1	IgA_nephropathy	4E-20	1.34	[1.26-1.42]_	rs660895	G	0.24	22197929	
+HLA-DQA/B	IgA_nephropathy	3E-13	1.30	[1.21-1.39]_	rs1794275	A	0.15	22197929	

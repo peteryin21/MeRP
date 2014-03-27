@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-A	Adverse_response_to_carbamapezine	1E-16	9.50	[5.6-16.3]_	NR	A	0.13	21149285	

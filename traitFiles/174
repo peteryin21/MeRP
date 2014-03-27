@@ -1,0 +1,6 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-DQA1,_HLA-DRB1	Hepatocellular_carcinoma	5E-22	1.28	[1.22-1.35]_	rs9272105	A	0.45	22807686	
+GRIK1	Hepatocellular_carcinoma	5E-10	1.19	[1.12-1.25]_	rs455804	C	0.66	22807686	
+HLA-DQ,_HLA-DR	Hepatocellular_carcinoma	6E-9	1.30	[1.19-1.42]_	rs9275572	A	0.36	21499248	
+MICA	Hepatocellular_carcinoma	4E-13	1.39	[1.27-1.52]_	rs2596542	A	0.33	21499248	
+KIF1B,UBE4B,PGD	Hepatocellular_carcinoma	2E-18	1.64	[1.49-1.82]_	rs17401966	A	0.72	20676096	

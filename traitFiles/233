@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LEPR	Soluble_leptin_receptor_levels	6E-13	7.60	[5.64-9.56]_%_decrease	rs1751492	C	0.30	20167575	

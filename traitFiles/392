@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TERC	Telomere_length	3E-31	.10	[0.081-0.113]_unit_decrease	rs10936599	T	0.252	23535734	
+OBFC1	Telomere_length	7E-11	.07	[0.049-0.089]_unit_decrease	rs9420907	A	0.865	23535734	
+ZNF676	Telomere_length	1E-8	.05	[0.032-0.067]_unit_increase	rs412658	T	0.3564	23001564	
+CTC1	Telomere_length	2E-8	.06	[0.036-0.079]_unit_decrease	rs3027234	T	0.1794	23001564	
+OBFC1	Telomere_length	9E-11	.08	[0.057-0.108]_unit_increase	rs9419958	T	0.1353	23001564	
+TERC	Telomere_length	1E-8	.07	[0.046-0.089]_unit_increase	rs1317082	G	0.2875	23001564	
+TERC	Telomere_length	2E-14	.03	[0.02-0.04]_unit_decrease	rs12696304	G	0.27	21573004	
+OBFC1	Telomere_length	2E-11	.10	[0.06-0.14]_kb_increase	rs4387287	A	NR	20421499	
+TERC	Telomere_length	4E-14	.11	[0.08-0.14]_unit_decrease	rs12696304	G	0.30	20139977	

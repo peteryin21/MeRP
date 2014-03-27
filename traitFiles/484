@@ -1,0 +1,10 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ARAP1	Proinsulin_levels	3E-102	NR	NR	rs11603334	A	0.15	21873549	
+MADD	Proinsulin_levels	1E-88	NR	NR	rs10501320	G	0.72	21873549	
+PCSK1	Proinsulin_levels	1E-26	NR	NR	rs6235	G	0.28	21873549	
+TCF7L2	Proinsulin_levels	2E-20	NR	NR	rs7903146	T	0.30	21873549	
+VPS13C,_C2CD4A,_C2CD4B	Proinsulin_levels	4E-20	NR	NR	rs4502156	T	0.58	21873549	
+SLC30A8	Proinsulin_levels	3E-18	NR	NR	rs11558471	A	0.69	21873549	
+LARP6	Proinsulin_levels	2E-10	NR	NR	rs1549318	T	0.61	21873549	
+SGSM2	Proinsulin_levels	3E-9	NR	NR	rs4790333	T	0.45	21873549	
+MADD	Proinsulin_levels	7E-12	NR	NR	rs10838687	T	0.80	21873549	

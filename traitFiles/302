@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PDGFRA	Corneal_astigmatism	8E-9	1.26	[1.18-1.34]_	rs7677751	T	0.22	22144915	

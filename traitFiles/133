@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+BCL6,_LPP	B_cell_non-Hodgkin_lymphoma	3E-13	1.44	[1.31-1.59]_	rs6773854	C	0.21	23749188	

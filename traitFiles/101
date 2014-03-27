@@ -1,0 +1,12 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CDKN2B-AS1	Intracranial_aneurysm	4E-8	1.35	[NR]_	rs6475606	T	0.48	22961961	
+EDNRA	Intracranial_aneurysm	1E-8	1.25	[1.161-1.343]_	rs6842241	C	0.694	22286173	
+SOX17	Intracranial_aneurysm	1E-12	1.28	[1.20-1.38]_	rs9298506	A	0.81	20364137	
+CDKN2A,CDKN2B	Intracranial_aneurysm	2E-22	1.32	[1.25-1.39]_	rs1333040	T	0.56	20364137	
+CNNM2	Intracranial_aneurysm	1E-9	1.29	[1.19-1.40]_	rs12413409	G	0.91	20364137	
+STARD13	Intracranial_aneurysm	3E-9	1.20	[1.13-1.28]_	rs9315204	T	0.21	20364137	
+RBBP8	Intracranial_aneurysm	1E-12	1.22	[1.15-1.28]_	rs11661542	C	0.49	20364137	
+BOLL,_PLCL1	Intracranial_aneurysm	4E-8	1.24	[1.15-1.34]_	rs700651	G	0.35	18997786	
+SOX17	Intracranial_aneurysm	1E-10	1.36	[1.24-1.49]_	rs10958409	A	0.15	18997786	
+SOX17	Intracranial_aneurysm	2E-9	1.35	[1.22-1.49]_	rs9298506	A	0.81	18997786	
+CDKN2A,_CDKN2B	Intracranial_aneurysm	1E-10	1.29	[1.19-1.40]_	rs1333040	T	0.55	18997786	

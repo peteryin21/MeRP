@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+KCNJ6	Electroencephalographic_traits_in_alcoholism	5E-10	.15	[NR]_unit_decrease	rs2835872	G	0.681	22554406	

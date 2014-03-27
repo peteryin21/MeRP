@@ -1,0 +1,17 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TMEM229B	Obesity-related_traits	5E-8	.04	[NR]__kcal_increase	rs17104363	G	0.05	23251661	
+COL4A1	Obesity-related_traits	5E-8	.05	[NR]__SD/y_increase	rs494558	G	0.078	23251661	
+TSEN34,_MBOAT7	Obesity-related_traits	3E-8	.05	[NR]__cm/y_increase	rs7595	G	0.389	23251661	
+MTNR1B,_LOC642791	Obesity-related_traits	4E-8	.05	[NR]_mg/dL_increase	rs10830963	G	0.205	23251661	
+ABO	Obesity-related_traits	2E-8	.04	[NR]_pg/mL_increase	rs657152	A	0.254	23251661	
+DARC,_FCER1A,_OR10J5,_OR10J1	Obesity-related_traits	1E-21	.10	[NR]_pg/mL_increase	rs12075	A	0.436	23251661	
+CCR3,_CCR2	Obesity-related_traits	7E-9	.05	[NR]_pg/mL_increase	rs12636651	G	0.403	23251661	
+DFNB31	Obesity-related_traits	2E-8	.06	[NR]__pg/mL_increase	rs79509430	A	0.068	23251661	
+RASGEF1A	Obesity-related_traits	5E-8	.05	[NR]__pg/mL_increase	rs28461806	G	0.049	23251661	
+C21orf34	Obesity-related_traits	5E-8	.04	[NR]__unit_increase	rs2823615	A	0.178	23251661	
+CTCFL,_HMG1L1	Obesity-related_traits	4E-8	.04	[NR]__min/d_increase	rs6025590	A	0.308	23251661	
+ARHGAP11A,_SCG5	Obesity-related_traits	5E-8	.04	[NR]__min/d_increase	rs8037818	G	0.181	23251661	
+ZNF259,_APOA5	Obesity-related_traits	3E-8	.04	[NR]__mg/dL_increase	rs3741298	G	0.48	23251661	
+XPA,_FOXE1	Obesity-related_traits	1E-9	.04	[NR]_µIU/mL_increase	rs1443438	A	0.253	23251661	
+MATK	Obesity-related_traits	3E-8	.05	[NR]__kcal/d_increase	rs12104221	A	0.381	23251661	
+FTO	Obesity-related_traits	3E-8	.16	[NR]_SD_lower_(hip)	rs9930506	A	0.54	17658951	

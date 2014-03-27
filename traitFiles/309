@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GC	Vitamin_D_levels	2E-49	.38	[0.32-0.44]_unit_decrease	rs2282679	C	0.26	20418485	
+NADSYN1,DHCR7	Vitamin_D_levels	3E-9	.18	[0.12-0.24]_unit_decrease	rs3829251,rs11234027	A	0.19	20418485	
+CYP2R1	Vitamin_D_levels	3E-17	.25	[0.15-0.35]_unit_increase	rs2060793,rs1993116	A	0.41	20418485	

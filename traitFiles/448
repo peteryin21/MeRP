@@ -1,0 +1,15 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+PRRX1	Atrial_fibrillation	8E-14	1.14	[1.10-1.17]_	rs3903239	G	0.45	22544366	
+CAV1	Atrial_fibrillation	4E-12	1.11	[1.09-1.15]_	rs3807989	G	0.60	22544366	
+C9orf3	Atrial_fibrillation	4E-11	1.11	[1.08-1.15]_	rs10821415	A	0.42	22544366	
+SYNPO2L	Atrial_fibrillation	4E-9	1.15	[1.10-1.20]_	rs10824026	A	0.84	22544366	
+SYNE2	Atrial_fibrillation	6E-13	1.13	[1.09-1.17]_	rs1152591	A	0.48	22544366	
+HCN4	Atrial_fibrillation	3E-17	1.19	[1.14-1.24]_	rs7164883	G	0.16	22544366	
+KCNN3,_PMVK	Atrial_fibrillation	2E-14	1.18	[1.13-1.23]_	rs6666258	C	0.30	22544366	
+PITX2	Atrial_fibrillation	2E-74	1.64	[1.55-1.73]_	rs6817105	C	0.13	22544366	
+ZFHX3	Atrial_fibrillation	3E-16	1.24	[1.17-1.30]_	rs2106261	T	0.176	22544366	
+PITX2	Atrial_fibrillation	3E-28	2.03	[1.79-2.30]_	rs6843082	G	0.26	20173747	
+KCNN3	Atrial_fibrillation	2E-21	1.52	[1.40-1.64]_	rs13376333	T	0.30	20173747	
+PITX2	Atrial_fibrillation	4E-63	1.65	_	rs17042171	A	0.12	19597492	
+ZFHX3	Atrial_fibrillation	2E-15	1.25	_	rs2106261	T	0.174	19597492	
+ZFHX3	Atrial_fibrillation	1E-10	1.21	[1.14-1.29]_	rs7193343	T	NR	19597491	

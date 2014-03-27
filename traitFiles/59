@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+GLYAT	Body_mass_(lean)	2E-8	NR	NR	rs2507838	A	0.03	23108985	
+TRHR	Body_mass_(lean)	4E-10	.10	[0.04-0.16]_kg_increase	rs7832552	T	0.32	19268274	

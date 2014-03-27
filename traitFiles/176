@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TCF4	Fuchs's_corneal_dystrophy	1E-18	5.47	[3.75-7.99]_	rs613872	G	0.15	20825314	

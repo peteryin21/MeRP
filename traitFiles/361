@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+SYK	Vascular_dementia	7E-11	2.20	[1.73-2.78]_	rs290227	G	0.40	23480133	

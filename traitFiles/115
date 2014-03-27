@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+AHR	Caffeine_consumption	2E-19	.15	[0.11-0.19]_mg/day_decrease	rs4410790	T	0.38	21490707	
+LMAN1L,_EDC3,_CYP1A2,_CYP1A1,_CSK	Caffeine_consumption	5E-14	.12	[0.08-0.16]_mg/day_increase	rs2470893	T	0.31	21490707	

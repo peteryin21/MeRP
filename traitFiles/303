@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+REL	Hodgkin's_lymphoma	2E-8	1.22	[1.14-1.30]_	rs1432295	G	0.40	21037568	
+HLA-DRA	Hodgkin's_lymphoma	3E-50	1.70	[1.58-1.82]_	rs6903608	G	0.27	21037568	
+PVT1	Hodgkin's_lymphoma	1E-13	1.33	[1.23-1.44]_	rs2019960	G	0.23	21037568	

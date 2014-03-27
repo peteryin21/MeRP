@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CDKN2A,CDKN2B	Coronary_artery_calcification	2E-11	.53	[0.38-0.69]_unit_increase	rs1537370	T	0.46	23561647	
+CDKN2B	Coronary_artery_calcification	3E-24	.20	[0.16-0.24]_%_increase	rs1333049	C	NR	22144573	
+PHACTR1	Coronary_artery_calcification	4E-22	.20	[0.16-0.24]_%_decrease	rs9349379	A	NR	22144573	

@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TYW3,_CRYZ	Resistin_levels_	6E-12	.05	[0.030-0.070]_unit_increase	rs3931020	C	0.69	22843503	
+NDST4	Resistin_levels_	6E-18	.13	[0.091-0.169]_unit_increase	rs13144478	T	0.09	22843503	

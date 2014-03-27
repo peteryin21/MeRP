@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MLLT10	Meningioma_	2E-14	1.46	[1.32-1.61]_	rs11012732	A	0.32	21804547	

@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MCPH1	Epirubicin-induced_leukopenia_	2E-9	2.74	[1.96-3.83]_	rs2916733	C	0.39	21799462	

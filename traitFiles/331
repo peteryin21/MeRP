@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CDH10,CDH9	Autism	2E-10	1.19	[NR]_	rs4307059	T	0.61	19404256	

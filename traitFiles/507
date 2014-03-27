@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HLA-DQB1	HPV_seropositivity	1E-14	NR	NR	rs9357152	G	0.33	21896673	

@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+IL5RA	Asthma_(childhood_onset)	2E-8	.17	[NR]_unit_decrease	rs9815663	T	0.1820	22560479	
+NR	Asthma_(childhood_onset)	7E-9	.16	[NR]_unit_decrease	rs7927044	A	0.0134	22560479	

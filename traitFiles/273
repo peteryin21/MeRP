@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+KCNJ16,_KCNJ2	Thyrotoxic_hypokalemic_periodic_paralysis	8E-14	3.20	[2.40-4.40]_	rs312691	C	0.76	22863731	
+KCNJ2	Thyrotoxic_hypokalemic_periodic_paralysis	4E-12	5.47	[3.04-9.83]_	rs623011	A	0.45	22399142	

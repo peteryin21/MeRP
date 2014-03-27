@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+FMO3,_FMO6P	Lentiform_nucleus_volume_	5E-8	112.27	[NR]_unit_decrease	rs1795240	A	0.43	22903471	

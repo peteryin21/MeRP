@@ -1,0 +1,12 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TF	Iron_status_biomarkers	5E-10	21.49	[NR]_ug/dL_increase	rs3811647	A	NR	21483845	
+HFE	Iron_status_biomarkers	3E-8	35.36	[NR]_ug/dL_decrease	rs1800562	A	NR	21483845	
+HFE	Iron_status_biomarkers	6E-10	44.27	[NR]_ug/dL_decrease	rs1800562	A	NR	21483845	
+HFE	Iron_status_biomarkers	9E-9	.04	[0.03-0.05]_unit_increase	rs1408272	T	NR	21149283	
+PCSK7	Iron_status_biomarkers	1E-27	.04	[0.03-0.05]_unit_increase	rs236918	C	NR	21149283	
+TMPRSS6	Iron_status_biomarkers	2E-15	.02	[0.015-0.023]_unit_increase	rs855791	A	NR	21149283	
+HFE	Iron_status_biomarkers	9E-10	.09	[0.06-0.12]_unit_increase	rs17342717	T	NR	21149283	
+APOA	Iron_status_biomarkers	4E-25	.04	[0.03-0.05]_unit_decrease	rs10047462	T	NR	21149283	
+TMPRSS6	Iron_status_biomarkers	1E-10	.13	[0.09-0.17]_s.d._decrease	rs855791	T	0.42	19820699	
+HFE	Iron_status_biomarkers	2E-8	.22	[0.14-0.30]_s.d._increase	rs1800562	A	0.08	19820699	
+TF	Iron_status_biomarkers	1E-9	.43	[NR]_s.d._increase	rs1830084	A	0.36	19084217	

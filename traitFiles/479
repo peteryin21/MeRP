@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+CCDC27,_LOC388588,_LRRC47,_KIAA0562,_DFFB	Blood_trace_element_(Cu_levels)	5E-10	.20	[0.14-0.26]_unit_decrease	rs1175550	A	NR	23720494	
+SELENBP1,_PSMB4,_POGZ	Blood_trace_element_(Cu_levels)	3E-20	.31	[0.25-0.38]_unit_increase	rs2769264	G	NR	23720494	

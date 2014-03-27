@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ITGA4	Monocyte_count	5E-17	.22	[NR]_unit_decrease	rs2124440	G	0.45	23314186	
+RPN1	Monocyte_count	2E-16	.23	_unit_decrease	rs2712381	A	0.40	23314186	
+IRF8	Monocyte_count	3E-16	.22	_unit_decrease	rs424971	G	0.47	23314186	

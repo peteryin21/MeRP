@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+ASIP	Burning_and_freckling	6E-37	2.56	[2.06-3.18]_	rs1015362,_rs4911414	G	0.08	18488028	

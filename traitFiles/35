@@ -1,0 +1,9 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+TREM2	Alzheimer's_disease	2E-12	2.90	[2.16-3.91]_	rs75932628	T	0.0063	23150908	
+FRMD4A	Alzheimer's_disease	1E-10	1.68	[1.43-1.96]__(AAC)	rs7081208,_rs2446581,_rs17314229	S	0.028	22430674	
+APOE	Alzheimer's_disease	7E-16	NR	NR	NR	E	NR	22245343	
+APOE	Alzheimer's_disease	4E-9	NR	NR	NR	E	NR	22245343	
+APOE	Alzheimer's_disease	1E-295	2.53	[2.41-2.66]_	rs2075650	G	0.14	20460622	
+CLU	Alzheimer's_disease	6E-10	1.22	[1.14-1.29]_	rs2279590,_rs11136000,_rs9331888	S	0.26	19734903	
+CR1	Alzheimer's_disease	3E-10	1.22	[1.15-1.30]_	rs6656401,_rs3818361	S	0.18	19734903	
+PVRL2,_TOMM40,_APOE	Alzheimer's_disease	6E-14	NR	NR	rs6859	A	NR	18823527	

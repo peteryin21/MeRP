@@ -1,0 +1,2 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+HNF1B	Endometrial_cancer	7E-10	1.19	[1.12-1.27]_	rs4430796	A	0.52	21499250	

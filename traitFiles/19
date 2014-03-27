@@ -1,0 +1,3 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+LHX2,_DENND1A	Waist_circumference	2E-8	.07	[0.05-0.09]_unit_decrease	rs2075064	T	0.13	23966867	
+NRXN3	Waist_circumference	5E-8	.65	[NR]_cm_increase	rs10146997	G	NR	19557197	

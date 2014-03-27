@@ -1,0 +1,4 @@
+Gene	Trait	p_Value	OR/Beta	95%CI	SNPrsID	Risk_Allele	Risk_Allele_Freq	PubMedID
+MSRB3	Hippocampal_volume	5E-11	123.80	[86.76-160.84]_mm3_decrease	rs17178006	G	0.10	22504421	
+WIF1	Hippocampal_volume	7E-11	63.30	[44.29-82.31]_mm3_decrease	rs6581612	C	0.27	22504421	
+HRK	Hippocampal_volume	3E-11	107.80	[76.05-139.55]_mm3_decrease	rs7294919	T	0.91	22504421	
